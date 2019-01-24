@@ -1,0 +1,1344 @@
+fileFormatVersion: 2
+guid: e9101510865313e4e960f12dbbe5fd5a
+timeCreated: 1500362809
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Immortep_0
+    21300002: Immortep_1
+    21300004: Immortep_2
+    21300006: Immortep_3
+    21300008: Immortep_4
+    21300010: Immortep_5
+    21300012: Immortep_6
+    21300014: Immortep_7
+    21300016: Immortep_8
+    21300018: Immortep_9
+    21300020: Immortep_10
+    21300022: Immortep_11
+    21300024: Immortep_12
+    21300026: Immortep_13
+    21300028: Immortep_14
+    21300030: Immortep_15
+    21300032: Immortep_16
+    21300034: Immortep_17
+    21300036: Immortep_18
+    21300038: Immortep_19
+    21300040: Immortep_20
+    21300042: Immortep_21
+    21300044: Immortep_22
+    21300046: Immortep_23
+    21300048: Immortep_24
+    21300050: Immortep_25
+    21300052: Immortep_26
+    21300054: Immortep_27
+    21300056: Immortep_28
+    21300058: Immortep_29
+    21300060: Immortep_30
+    21300062: Immortep_31
+    21300064: Immortep_32
+    21300066: Immortep_33
+    21300068: Immortep_34
+    21300070: Immortep_35
+    21300072: Immortep_36
+    21300074: Immortep_37
+    21300076: Immortep_38
+    21300078: Immortep_39
+    21300080: Immortep_40
+    21300082: Immortep_41
+    21300084: Immortep_42
+    21300086: Immortep_43
+    21300088: Immortep_44
+    21300090: Immortep_45
+    21300092: Immortep_46
+    21300094: Immortep_47
+    21300096: Immortep_48
+    21300098: Immortep_49
+    21300100: Immortep_50
+    21300102: Immortep_51
+    21300104: Immortep_52
+    21300106: Immortep_53
+    21300108: Immortep_54
+    21300110: Immortep_55
+    21300112: Immortep_56
+    21300114: Immortep_57
+    21300116: Immortep_58
+    21300118: Immortep_59
+    21300120: Immortep_60
+    21300122: Immortep_61
+    21300124: Immortep_62
+    21300126: Immortep_63
+    21300128: Immortep_64
+    21300130: Immortep_65
+    21300132: Immortep_66
+    21300134: Immortep_67
+    21300136: Immortep_68
+    21300138: Immortep_69
+    21300140: Immortep_70
+    21300142: Immortep_71
+    21300144: Immortep_72
+    21300146: Immortep_73
+    21300148: Immortep_74
+    21300150: Immortep_75
+    21300152: Immortep_76
+    21300154: Immortep_77
+    21300156: Immortep_78
+    21300158: Immortep_79
+    21300160: Immortep_80
+    21300162: Immortep_81
+    21300164: Immortep_82
+    21300166: Immortep_83
+    21300168: Immortep_84
+    21300170: Immortep_85
+    21300172: Immortep_86
+    21300174: Immortep_87
+    21300176: Immortep_88
+    21300178: Immortep_89
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Immortep_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 316
+        width: 84
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 316
+        width: 88
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 319
+        width: 92
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 321
+        width: 93
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_4
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 320
+        width: 91
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_5
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 317
+        width: 85
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_6
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 315
+        width: 64
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_7
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 318
+        width: 65
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_8
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 320
+        width: 65
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_9
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 320
+        width: 64
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_10
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 319
+        width: 62
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_11
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 316
+        width: 64
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_12
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 317
+        width: 69
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_13
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 318
+        width: 67
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_14
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 320
+        width: 70
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_15
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 320
+        width: 72
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_16
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 318
+        width: 72
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_17
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 317
+        width: 72
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_18
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 322
+        width: 87
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_19
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 326
+        width: 88
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_20
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 327
+        width: 91
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_21
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 326
+        width: 94
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_22
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 324
+        width: 96
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 219
+        width: 91
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_24
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 215
+        width: 84
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_25
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 218
+        width: 88
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_26
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 221
+        width: 92
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_27
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 220
+        width: 93
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_28
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 217
+        width: 92
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_29
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 215
+        width: 85
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_30
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 234
+        width: 70
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_31
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 235
+        width: 70
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_32
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 237
+        width: 68
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_33
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 239
+        width: 67
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_34
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 238
+        width: 66
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_35
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 234
+        width: 68
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_36
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 226
+        width: 80
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_37
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 229
+        width: 80
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_38
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 231
+        width: 80
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_39
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 229
+        width: 80
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_40
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 226
+        width: 79
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_41
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 224
+        width: 79
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_42
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 217
+        width: 100
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_43
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 219
+        width: 102
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_44
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 221
+        width: 100
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 120
+        width: 98
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_46
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 118
+        width: 97
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_47
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 117
+        width: 98
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_48
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 116
+        width: 87
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_49
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 116
+        width: 89
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_50
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 117
+        width: 88
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_51
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 116
+        width: 85
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_52
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 115
+        width: 84
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_53
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 116
+        width: 84
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_54
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 108
+        width: 70
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_55
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 108
+        width: 70
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_56
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 107
+        width: 68
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_57
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 107
+        width: 67
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_58
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 107
+        width: 66
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_59
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 108
+        width: 68
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_60
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 113
+        width: 84
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_61
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 113
+        width: 79
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_62
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 112
+        width: 64
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_63
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 120
+        width: 69
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_64
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 121
+        width: 69
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_65
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 119
+        width: 80
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_66
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 112
+        width: 64
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_67
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 114
+        width: 64
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_68
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 74
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_69
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 10
+        width: 84
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_70
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 11
+        width: 81
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_71
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 7
+        width: 87
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_72
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 6
+        width: 69
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_73
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 6
+        width: 88
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_74
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 5
+        width: 98
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_75
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 10
+        width: 88
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_76
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 11
+        width: 80
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_77
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 9
+        width: 81
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_78
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 11
+        width: 86
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_79
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 10
+        width: 96
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_80
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 3
+        width: 98
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_81
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 13
+        width: 71
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_82
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 15
+        width: 72
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_83
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 18
+        width: 67
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_84
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 7
+        width: 84
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_85
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2
+        width: 78
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_86
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 2
+        width: 65
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_87
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 9
+        width: 69
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_88
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 10
+        width: 69
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Immortep_89
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 14
+        width: 80
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

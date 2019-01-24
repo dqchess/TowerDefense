@@ -1,0 +1,113 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class TowerNew : MonoBehaviour
+{
+    public GameObject chop;
+    public GameObject bullet;
+  
+    int numberOfUpgrades;
+    int refundAmount;
+    int currentLevel;
+
+    public int maxUpgradeLevel;
+
+    public int attackDamage;
+    public int towerCost;
+    public float radiusDamage;
+    public float attackSpeed;
+
+    float currentTime;
+
+    bool isSelected;
+    bool isLockTarget;
+    public GameObject target;
+    public GameObject chopEffect;
+    private Animator animTower;
+
+    public AudioClip soundBullet;
+    private AudioSource source;
+    private float lengthSound;
+
+
+    void Awake()
+    {
+        animTower = GetComponent<Animator>();
+    }
+    void Start()
+    {
+    }
+
+    void Update()
+    {
+        if (isLockTarget && currentTime==0)
+        {
+            Shooting();
+            currentTime = attackSpeed;        
+        }
+        Timer();
+        if (target == null)
+        {
+            isLockTarget = false;
+        }
+    }
+
+    void Timer()
+    {
+        if (currentTime > 0)
+        {
+            currentTime -= Time.deltaTime;
+            if (currentTime < 0)
+                currentTime = 0;
+        }
+    }
+
+    public void Shooting()
+    {
+        if (target == null)
+        {
+            Debug.Log("destroy");
+           
+        }
+        else
+        {
+            animTower.SetTrigger("isShoot");
+        }
+    }
+
+    public void ThrowBullet()
+    {
+        chopEffect.SetActive(true);
+        GameObject _bullet = Instantiate(bullet, chop.transform.position, Quaternion.Euler(new Vector3(0f, 0f, 0f)));
+        Projectiles _classBullet = _bullet.GetComponent<Projectiles>();
+        _classBullet.target = target.transform.position;
+        _classBullet.Target = target;
+        //SoundBullet.PlaySound(soundBulletGame.ARROW);
+        StartCoroutine(DelayEffect());
+    }
+
+    private IEnumerator DelayEffect()
+    {
+        yield return new WaitForSeconds(0.3f);
+        chopEffect.SetActive(false);
+    }
+
+    void OnTriggerStay2D(Collider2D coll)
+    {
+        if (coll.gameObject.tag == "Enemy" && !isLockTarget)
+        {
+            target = coll.gameObject;
+            isLockTarget = true;
+        }
+    }
+
+    void OnTriggerExit2D(Collider2D coll)
+    {
+        if (coll.gameObject.tag == "Enemy" && isLockTarget)
+        {
+            isLockTarget = false;
+        }
+
+    }
+}

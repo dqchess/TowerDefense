@@ -1,0 +1,1688 @@
+fileFormatVersion: 2
+guid: 02cf6295c6efeca4e9efa3286876ff77
+timeCreated: 1499392067
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pictures3_0
+    21300002: pictures3_1
+    21300004: pictures3_2
+    21300006: pictures3_3
+    21300008: pictures3_4
+    21300010: pictures3_5
+    21300012: pictures3_6
+    21300014: pictures3_7
+    21300016: pictures3_8
+    21300018: pictures3_9
+    21300020: pictures3_10
+    21300022: pictures3_11
+    21300024: pictures3_12
+    21300026: pictures3_13
+    21300028: pictures3_14
+    21300030: pictures3_15
+    21300032: pictures3_16
+    21300034: pictures3_17
+    21300036: pictures3_18
+    21300038: pictures3_19
+    21300040: pictures3_20
+    21300042: pictures3_21
+    21300044: pictures3_22
+    21300046: pictures3_23
+    21300048: pictures3_24
+    21300050: pictures3_25
+    21300052: pictures3_26
+    21300054: pictures3_27
+    21300056: pictures3_28
+    21300058: pictures3_29
+    21300060: pictures3_30
+    21300062: pictures3_31
+    21300064: pictures3_32
+    21300066: pictures3_33
+    21300068: pictures3_34
+    21300070: pictures3_35
+    21300072: pictures3_36
+    21300074: pictures3_37
+    21300076: pictures3_38
+    21300078: pictures3_39
+    21300080: pictures3_40
+    21300082: pictures3_41
+    21300084: pictures3_42
+    21300086: pictures3_43
+    21300088: pictures3_44
+    21300090: pictures3_45
+    21300092: pictures3_46
+    21300094: pictures3_47
+    21300096: pictures3_48
+    21300098: pictures3_49
+    21300100: pictures3_50
+    21300102: pictures3_51
+    21300104: pictures3_52
+    21300106: pictures3_53
+    21300108: pictures3_54
+    21300110: pictures3_55
+    21300112: pictures3_56
+    21300114: pictures3_57
+    21300116: pictures3_58
+    21300118: pictures3_59
+    21300120: pictures3_60
+    21300122: pictures3_61
+    21300124: pictures3_62
+    21300126: pictures3_63
+    21300128: pictures3_64
+    21300130: pictures3_65
+    21300132: pictures3_66
+    21300134: pictures3_67
+    21300136: pictures3_68
+    21300138: pictures3_69
+    21300140: pictures3_70
+    21300142: pictures3_71
+    21300144: pictures3_72
+    21300146: pictures3_73
+    21300148: pictures3_74
+    21300150: pictures3_75
+    21300152: pictures3_76
+    21300154: pictures3_77
+    21300156: pictures3_78
+    21300158: pictures3_79
+    21300160: pictures3_80
+    21300162: pictures3_81
+    21300164: pictures3_82
+    21300166: pictures3_83
+    21300168: pictures3_84
+    21300170: pictures3_85
+    21300172: pictures3_86
+    21300174: pictures3_87
+    21300176: pictures3_88
+    21300178: pictures3_89
+    21300180: pictures3_90
+    21300182: pictures3_91
+    21300184: pictures3_92
+    21300186: pictures3_93
+    21300188: pictures3_94
+    21300190: pictures3_95
+    21300192: pictures3_96
+    21300194: pictures3_97
+    21300196: pictures3_98
+    21300198: pictures3_99
+    21300200: pictures3_100
+    21300202: pictures3_101
+    21300204: pictures3_102
+    21300206: pictures3_103
+    21300208: pictures3_104
+    21300210: pictures3_105
+    21300212: pictures3_106
+    21300214: pictures3_107
+    21300216: pictures3_108
+    21300218: pictures3_109
+    21300220: pictures3_110
+    21300222: pictures3_111
+    21300224: pictures3_112
+    21300226: pictures3_113
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pictures3_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 918
+        width: 640
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_1
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 838
+        width: 353
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 769
+        width: 430
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_3
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 480
+        width: 136
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 567
+        width: 59
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_5
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 704
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_6
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 704
+        width: 118
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_7
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 659
+        width: 87
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 635
+        width: 137
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_9
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 713
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 628
+        width: 130
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_11
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 552
+        width: 49
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_12
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 697
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_13
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 673
+        width: 104
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_14
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 673
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_15
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 667
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_16
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 670
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_17
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 670
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_18
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 670
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_19
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 670
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_20
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 653
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 569
+        width: 173
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_22
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 569
+        width: 173
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_23
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 263
+        width: 21
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_24
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 633
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 598
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_26
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 601
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_27
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 601
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_28
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 601
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_29
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 601
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_30
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 601
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 588
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_32
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 487
+        width: 130
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_33
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 572
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_34
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 548
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_35
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 442
+        width: 340
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_36
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 330
+        width: 43
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_37
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 177
+        width: 17
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 496
+        width: 98
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_39
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 483
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_40
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 539
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_41
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 518
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_42
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 498
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_43
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 412
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_44
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 339
+        width: 130
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_45
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 416
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_46
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 339
+        width: 130
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_47
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 440
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_48
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 339
+        width: 130
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_49
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 420
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_50
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 329
+        width: 113
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_51
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 386
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_52
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 401
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_53
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 400
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_54
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 377
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_55
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 391
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_56
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 364
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_57
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 357
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_58
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 370
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_59
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 350
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 260
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_61
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 186
+        width: 130
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_62
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 258
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_63
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 187
+        width: 130
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_64
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 205
+        width: 127
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_65
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 209
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_66
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 215
+        width: 113
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_67
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 215
+        width: 114
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_68
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 240
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_69
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 235
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_70
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 52
+        width: 27
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_71
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 220
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_72
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 215
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_73
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 200
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_74
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 92
+        width: 113
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_75
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 96
+        width: 113
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_76
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 191
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_77
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 191
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_78
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 191
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_79
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 191
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_80
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 191
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_81
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 191
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_82
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 52
+        width: 176
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_83
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 53
+        width: 173
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_84
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 68
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_85
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 68
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_86
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 72
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_87
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 72
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_88
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 72
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_89
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 72
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_90
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 72
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_91
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 78
+        width: 113
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_92
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 78
+        width: 113
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_93
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 43
+        width: 137
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_94
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 54
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_95
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 54
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_96
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 54
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_97
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 54
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_98
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 54
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_99
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 54
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_100
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 54
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_101
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 54
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_102
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 54
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_103
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 13
+        width: 174
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_104
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 12
+        width: 142
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_105
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 19
+        width: 168
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_106
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 19
+        width: 167
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_107
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 3
+        width: 107
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_108
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 14
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_109
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 6
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_110
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 9
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_111
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 9
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_112
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 9
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures3_113
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

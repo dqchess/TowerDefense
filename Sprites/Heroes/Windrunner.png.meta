@@ -1,0 +1,1492 @@
+fileFormatVersion: 2
+guid: 19716986edb824d49a06b8bd2c450ec2
+timeCreated: 1500362659
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Windrunner_0
+    21300002: Windrunner_1
+    21300004: Windrunner_2
+    21300006: Windrunner_3
+    21300008: Windrunner_4
+    21300010: Windrunner_5
+    21300012: Windrunner_6
+    21300014: Windrunner_7
+    21300016: Windrunner_8
+    21300018: Windrunner_9
+    21300020: Windrunner_10
+    21300022: Windrunner_11
+    21300024: Windrunner_12
+    21300026: Windrunner_13
+    21300028: Windrunner_14
+    21300030: Windrunner_15
+    21300032: Windrunner_16
+    21300034: Windrunner_17
+    21300036: Windrunner_18
+    21300038: Windrunner_19
+    21300040: Windrunner_20
+    21300042: Windrunner_21
+    21300044: Windrunner_22
+    21300046: Windrunner_23
+    21300048: Windrunner_24
+    21300050: Windrunner_25
+    21300052: Windrunner_26
+    21300054: Windrunner_27
+    21300056: Windrunner_28
+    21300058: Windrunner_29
+    21300060: Windrunner_30
+    21300062: Windrunner_31
+    21300064: Windrunner_32
+    21300066: Windrunner_33
+    21300068: Windrunner_34
+    21300070: Windrunner_35
+    21300072: Windrunner_36
+    21300074: Windrunner_37
+    21300076: Windrunner_38
+    21300078: Windrunner_39
+    21300080: Windrunner_40
+    21300082: Windrunner_41
+    21300084: Windrunner_42
+    21300086: Windrunner_43
+    21300088: Windrunner_44
+    21300090: Windrunner_45
+    21300092: Windrunner_46
+    21300094: Windrunner_47
+    21300096: Windrunner_48
+    21300098: Windrunner_49
+    21300100: Windrunner_50
+    21300102: Windrunner_51
+    21300104: Windrunner_52
+    21300106: Windrunner_53
+    21300108: Windrunner_54
+    21300110: Windrunner_55
+    21300112: Windrunner_56
+    21300114: Windrunner_57
+    21300116: Windrunner_58
+    21300118: Windrunner_59
+    21300120: Windrunner_60
+    21300122: Windrunner_61
+    21300124: Windrunner_62
+    21300126: Windrunner_63
+    21300128: Windrunner_64
+    21300130: Windrunner_65
+    21300132: Windrunner_66
+    21300134: Windrunner_67
+    21300136: Windrunner_68
+    21300138: Windrunner_69
+    21300140: Windrunner_70
+    21300142: Windrunner_71
+    21300144: Windrunner_72
+    21300146: Windrunner_73
+    21300148: Windrunner_74
+    21300150: Windrunner_75
+    21300152: Windrunner_76
+    21300154: Windrunner_77
+    21300156: Windrunner_78
+    21300158: Windrunner_79
+    21300160: Windrunner_80
+    21300162: Windrunner_81
+    21300164: Windrunner_82
+    21300166: Windrunner_83
+    21300168: Windrunner_84
+    21300170: Windrunner_85
+    21300172: Windrunner_86
+    21300174: Windrunner_87
+    21300176: Windrunner_88
+    21300178: Windrunner_89
+    21300180: Windrunner_90
+    21300182: Windrunner_91
+    21300184: Windrunner_92
+    21300186: Windrunner_93
+    21300188: Windrunner_94
+    21300190: Windrunner_95
+    21300192: Windrunner_96
+    21300194: Windrunner_97
+    21300196: Windrunner_98
+    21300198: Windrunner_99
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Windrunner_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 150
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 149
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 149
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 150
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 150
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 151
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 150
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 150
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 150
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_9
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 150
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_10
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 150
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_11
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 150
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_12
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 154
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_13
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 154
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_14
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 153
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_15
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 153
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_16
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 153
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_17
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 154
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_18
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 157
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_19
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 157
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_20
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 157
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_21
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 156
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_22
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 156
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_23
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 156
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_24
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 155
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_25
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 155
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_26
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 155
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_27
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 154
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_28
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 154
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_29
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 154
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_30
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 158
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_31
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 150
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_32
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 149
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 89
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_34
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 89
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_35
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 89
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_36
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 94
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_37
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 90
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_38
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 88
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_39
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 91
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_40
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 91
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_41
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 91
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_42
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 93
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_43
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 92
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_44
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 91
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_45
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 91
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_46
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 92
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_47
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 93
+        width: 68
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_48
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 91
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_49
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 88
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_50
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 91
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_51
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 90
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_52
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 84
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_53
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 93
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_54
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 89
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_55
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 82
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_56
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 87
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_57
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 89
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_58
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 82
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_59
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 88
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_60
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 86
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_61
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 89
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_62
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 84
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_63
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 84
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_64
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 84
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_65
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 76
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_66
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_67
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 8
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_68
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 13
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_69
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 14
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_70
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 8
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_71
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 9
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_72
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 12
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_73
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_74
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 5
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_75
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 12
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_76
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 17
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_77
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 10
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_78
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 10
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_79
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 12
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_80
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 14
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_81
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 12
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_82
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 3
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_83
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 11
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_84
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 20
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_85
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 5
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_86
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 10
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_87
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 11
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_88
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 12
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_89
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 14
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_90
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 12
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_91
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 4
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_92
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 18
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_93
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 4
+        width: 37
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_94
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 8
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_95
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 8
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_96
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 9
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_97
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 12
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_98
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 15
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windrunner_99
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 12
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

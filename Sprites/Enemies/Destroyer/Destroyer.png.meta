@@ -1,0 +1,2050 @@
+fileFormatVersion: 2
+guid: 4decd498b95586d44b148697cc455ea1
+timeCreated: 1500722861
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Destroyer_0
+    21300002: Destroyer_1
+    21300004: Destroyer_2
+    21300006: Destroyer_3
+    21300008: Destroyer_4
+    21300010: Destroyer_5
+    21300012: Destroyer_6
+    21300014: Destroyer_7
+    21300016: Destroyer_8
+    21300018: Destroyer_9
+    21300020: Destroyer_10
+    21300022: Destroyer_11
+    21300024: Destroyer_12
+    21300026: Destroyer_13
+    21300028: Destroyer_14
+    21300030: Destroyer_15
+    21300032: Destroyer_16
+    21300034: Destroyer_17
+    21300036: Destroyer_18
+    21300038: Destroyer_19
+    21300040: Destroyer_20
+    21300042: Destroyer_21
+    21300044: Destroyer_22
+    21300046: Destroyer_23
+    21300048: Destroyer_24
+    21300050: Destroyer_25
+    21300052: Destroyer_26
+    21300054: Destroyer_27
+    21300056: Destroyer_28
+    21300058: Destroyer_29
+    21300060: Destroyer_30
+    21300062: Destroyer_31
+    21300064: Destroyer_32
+    21300066: Destroyer_33
+    21300068: Destroyer_34
+    21300070: Destroyer_35
+    21300072: Destroyer_36
+    21300074: Destroyer_37
+    21300076: Destroyer_38
+    21300078: Destroyer_39
+    21300080: Destroyer_40
+    21300082: Destroyer_41
+    21300084: Destroyer_42
+    21300086: Destroyer_43
+    21300088: Destroyer_44
+    21300090: Destroyer_45
+    21300092: Destroyer_46
+    21300094: Destroyer_47
+    21300096: Destroyer_48
+    21300098: Destroyer_49
+    21300100: Destroyer_50
+    21300102: Destroyer_51
+    21300104: Destroyer_52
+    21300106: Destroyer_53
+    21300108: Destroyer_54
+    21300110: Destroyer_55
+    21300112: Destroyer_56
+    21300114: Destroyer_57
+    21300116: Destroyer_58
+    21300118: Destroyer_59
+    21300120: Destroyer_60
+    21300122: Destroyer_61
+    21300124: Destroyer_62
+    21300126: Destroyer_63
+    21300128: Destroyer_64
+    21300130: Destroyer_65
+    21300132: Destroyer_66
+    21300134: Destroyer_67
+    21300136: Destroyer_68
+    21300138: Destroyer_69
+    21300140: Destroyer_70
+    21300142: Destroyer_71
+    21300144: Destroyer_72
+    21300146: Destroyer_73
+    21300148: Destroyer_74
+    21300150: Destroyer_75
+    21300152: Destroyer_76
+    21300154: Destroyer_77
+    21300156: Destroyer_78
+    21300158: Destroyer_79
+    21300160: Destroyer_80
+    21300162: Destroyer_81
+    21300164: Destroyer_82
+    21300166: Destroyer_83
+    21300168: Destroyer_84
+    21300170: Destroyer_85
+    21300172: Destroyer_86
+    21300174: Destroyer_87
+    21300176: Destroyer_88
+    21300178: Destroyer_89
+    21300180: Destroyer_90
+    21300182: Destroyer_91
+    21300184: Destroyer_92
+    21300186: Destroyer_93
+    21300188: Destroyer_94
+    21300190: Destroyer_95
+    21300192: Destroyer_96
+    21300194: Destroyer_97
+    21300196: Destroyer_98
+    21300198: Destroyer_99
+    21300200: Destroyer_100
+    21300202: Destroyer_101
+    21300204: Destroyer_102
+    21300206: Destroyer_103
+    21300208: Destroyer_104
+    21300210: Destroyer_105
+    21300212: Destroyer_106
+    21300214: Destroyer_107
+    21300216: Destroyer_108
+    21300218: Destroyer_109
+    21300220: Destroyer_110
+    21300222: Destroyer_111
+    21300224: Destroyer_112
+    21300226: Destroyer_113
+    21300228: Destroyer_114
+    21300230: Destroyer_115
+    21300232: Destroyer_116
+    21300234: Destroyer_117
+    21300236: Destroyer_118
+    21300238: Destroyer_119
+    21300240: Destroyer_120
+    21300242: Destroyer_121
+    21300244: Destroyer_122
+    21300246: Destroyer_123
+    21300248: Destroyer_124
+    21300250: Destroyer_125
+    21300252: Destroyer_126
+    21300254: Destroyer_127
+    21300256: Destroyer_128
+    21300258: Destroyer_129
+    21300260: Destroyer_130
+    21300262: Destroyer_131
+    21300264: Destroyer_132
+    21300266: Destroyer_133
+    21300268: Destroyer_134
+    21300270: Destroyer_135
+    21300272: Destroyer_136
+    21300274: Destroyer_137
+    21300276: Destroyer_138
+    21300278: Destroyer_139
+    21300280: Destroyer_140
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Destroyer_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1520
+        width: 118
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1519
+        width: 121
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1522
+        width: 124
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_3
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1524
+        width: 126
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_4
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1525
+        width: 125
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_5
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1524
+        width: 122
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_6
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1522
+        width: 119
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_7
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1522
+        width: 118
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1407
+        width: 99
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1409
+        width: 98
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_10
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1409
+        width: 97
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_11
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1409
+        width: 95
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_12
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1407
+        width: 94
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_13
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1405
+        width: 94
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_14
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1405
+        width: 94
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_15
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1405
+        width: 96
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_16
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1410
+        width: 102
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_17
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1410
+        width: 99
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1297
+        width: 96
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1297
+        width: 96
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_20
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1297
+        width: 99
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_21
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1297
+        width: 101
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_22
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1297
+        width: 101
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_23
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1296
+        width: 102
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_24
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1299
+        width: 118
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_25
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1299
+        width: 122
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_26
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1298
+        width: 124
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1187
+        width: 126
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_28
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1186
+        width: 126
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_29
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1186
+        width: 122
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_30
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1187
+        width: 118
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_31
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1188
+        width: 116
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_32
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1191
+        width: 117
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_33
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1193
+        width: 121
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_34
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1192
+        width: 124
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1079
+        width: 125
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_36
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1075
+        width: 125
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1073
+        width: 122
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_38
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1075
+        width: 119
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_39
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1078
+        width: 118
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_40
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1088
+        width: 85
+        height: 96
+      alignment: 9
+      pivot: {x: 0.49443144, y: 0.05423482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_41
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1112
+        width: 91
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_42
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1092
+        width: 89
+        height: 92
+      alignment: 9
+      pivot: {x: 0.49468172, y: 0.0411576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 967
+        width: 83
+        height: 104
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.03280346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_44
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 975
+        width: 84
+        height: 96
+      alignment: 9
+      pivot: {x: 0.505802, y: 0.010153453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_45
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 995
+        width: 89
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_46
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 982
+        width: 89
+        height: 89
+      alignment: 9
+      pivot: {x: 0.49999964, y: 0.056521982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_47
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 979
+        width: 105
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_48
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 981
+        width: 98
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_49
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 977
+        width: 77
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_50
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 970
+        width: 71
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_51
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 969
+        width: 79
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_52
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 974
+        width: 78
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_53
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 983
+        width: 76
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 874
+        width: 91
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_55
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 872
+        width: 112
+        height: 93
+      alignment: 9
+      pivot: {x: 0.4920454, y: 0.08621905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_56
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 868
+        width: 110
+        height: 97
+      alignment: 9
+      pivot: {x: 0.46760255, y: 0.12858786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_57
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 860
+        width: 107
+        height: 105
+      alignment: 9
+      pivot: {x: 0.49167383, y: 0.07636544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_58
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 863
+        width: 105
+        height: 102
+      alignment: 9
+      pivot: {x: 0.4660601, y: 0.113549925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_59
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 871
+        width: 109
+        height: 94
+      alignment: 9
+      pivot: {x: 0.50817364, y: 0.123213746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_60
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 872
+        width: 90
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08621905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_61
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 868
+        width: 89
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.045924235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_62
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 867
+        width: 97
+        height: 98
+      alignment: 9
+      pivot: {x: 0.50918424, y: 0.10000236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 755
+        width: 80
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_64
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 754
+        width: 91
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_65
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 756
+        width: 96
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_66
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 754
+        width: 103
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_67
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 744
+        width: 101
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_68
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 746
+        width: 95
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_69
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 755
+        width: 80
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_70
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 754
+        width: 70
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_71
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 742
+        width: 84
+        height: 116
+      alignment: 9
+      pivot: {x: 0.41734824, y: 0.26660892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_72
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 746
+        width: 86
+        height: 112
+      alignment: 9
+      pivot: {x: 0.52201664, y: 0.20287159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_73
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 639
+        width: 91
+        height: 101
+      alignment: 9
+      pivot: {x: 0.52080727, y: 0.06874009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_74
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 632
+        width: 89
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5425497, y: 0.15194532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_75
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 624
+        width: 83
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5380214, y: 0.25572732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_76
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 628
+        width: 84
+        height: 112
+      alignment: 9
+      pivot: {x: 0.47745878, y: 0.17469515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_77
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 639
+        width: 89
+        height: 101
+      alignment: 9
+      pivot: {x: 0.48581654, y: 0.03124577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 632
+        width: 89
+        height: 108
+      alignment: 9
+      pivot: {x: 0.47872514, y: 0.15194532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_79
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 642
+        width: 119
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_80
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 633
+        width: 101
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_81
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 617
+        width: 116
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_82
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 515
+        width: 159
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_83
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 513
+        width: 87
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_84
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 519
+        width: 92
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_85
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 521
+        width: 106
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_86
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 519
+        width: 112
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_87
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 505
+        width: 99
+        height: 110
+      alignment: 9
+      pivot: {x: 0.43020168, y: 0.18845381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_88
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 500
+        width: 125
+        height: 115
+      alignment: 9
+      pivot: {x: 0.4778882, y: 0.2403469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_89
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 499
+        width: 110
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22636098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 366
+        width: 114
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_91
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 409
+        width: 108
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_92
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 409
+        width: 116
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_93
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 396
+        width: 113
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5122303, y: 0.16419727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_94
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 391
+        width: 108
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_95
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 389
+        width: 101
+        height: 107
+      alignment: 9
+      pivot: {x: 0.48857677, y: 0.19409408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_96
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 381
+        width: 108
+        height: 116
+      alignment: 9
+      pivot: {x: 0.46795088, y: 0.16908817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_97
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 377
+        width: 104
+        height: 120
+      alignment: 9
+      pivot: {x: 0.4001541, y: 0.24037069}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_98
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 230
+        width: 104
+        height: 134
+      alignment: 9
+      pivot: {x: 0.43355784, y: 0.1753277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_99
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 281
+        width: 105
+        height: 83
+      alignment: 9
+      pivot: {x: 0.52632374, y: 0.1831562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_100
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 274
+        width: 101
+        height: 90
+      alignment: 9
+      pivot: {x: 0.4976151, y: 0.17919481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_101
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 255
+        width: 109
+        height: 109
+      alignment: 9
+      pivot: {x: 0.4576598, y: 0.28102937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_102
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 254
+        width: 103
+        height: 110
+      alignment: 9
+      pivot: {x: 0.4620865, y: 0.25127175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_103
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 260
+        width: 118
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4862469, y: 0.18603751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_104
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 244
+        width: 93
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_105
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 254
+        width: 93
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_106
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 108
+        width: 148
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_107
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 134
+        width: 112
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_108
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 122
+        width: 105
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_109
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 120
+        width: 94
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_110
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 125
+        width: 96
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_111
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 125
+        width: 118
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_112
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 130
+        width: 101
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_113
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 137
+        width: 116
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_114
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 159
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_115
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 6
+        width: 87
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_116
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 5
+        width: 92
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_117
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 6
+        width: 104
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_118
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 2
+        width: 112
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_119
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 16
+        width: 24
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_120
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 19
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_121
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 19
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_122
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 19
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_123
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 16
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_124
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 19
+        width: 11
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_125
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 19
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_126
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 19
+        width: 4
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_127
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 19
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_128
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 16
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_129
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 19
+        width: 25
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_130
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 4
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_131
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 4
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_132
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 4
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_133
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 4
+        width: 11
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_134
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 4
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_135
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 4
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_136
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 4
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_137
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 4
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_138
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 4
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_139
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 4
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Destroyer_140
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1096
+        width: 86
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0.026892923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: 8981f961de6f3ff48baf3d93e1f41da8
+timeCreated: 1500265295
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: arrow_1
+    21300002: arrow_2
+    21300004: arrow_3
+    21300006: arrow_4
+    21300008: arrow_5
+    21300010: arrow_6
+    21300012: arrow_7
+    21300014: arrow_8
+    21300016: arrow_9
+    21300018: arrow_10
+    21300020: arrow_11
+    21300022: arrow_12
+    21300024: arrow_0
+    21300026: arrow_13
+    21300028: arrow_14
+    21300030: arrow_15
+    21300032: arrow_16
+    21300034: arrow_17
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arrow_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 294
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arrow_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 302
+        width: 72
+        height: 74
+      alignment: 9
+      pivot: {x: 0.39995262, y: 0.2847467}
+      border: {x: 0, y: 2, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arrow_3
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 275
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arrow_4
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 286
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arrow_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 285
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arrow_6
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 256
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arrow_7
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 275
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arrow_8
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 240
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arrow_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 87
+        width: 66
+        height: 65
+      alignment: 9
+      pivot: {x: 0.45107904, y: 0.29136974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arrow_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 62
+        height: 60
+      alignment: 9
+      pivot: {x: 0.45833814, y: 0.27398401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arrow_11
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 37
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arrow_12
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 142
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arrow_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 306
+        width: 70
+        height: 74
+      alignment: 9
+      pivot: {x: 0.50922537, y: 0.25565854}
+      border: {x: 0, y: 0, z: 0, w: 3}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arrow_13
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 305
+        width: 69
+        height: 71
+      alignment: 9
+      pivot: {x: 0.46256456, y: 0.27261996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arrow_14
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 305
+        width: 80
+        height: 72
+      alignment: 9
+      pivot: {x: 0.42735213, y: 0.2847468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arrow_15
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 305
+        width: 69
+        height: 73
+      alignment: 9
+      pivot: {x: 0.35961738, y: 0.27000323}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arrow_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 238
+        width: 75
+        height: 67
+      alignment: 9
+      pivot: {x: 0.43111908, y: 0.2879593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arrow_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 162
+        width: 76
+        height: 67
+      alignment: 9
+      pivot: {x: 0.4490192, y: 0.25904483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: daa8732fef3e9174f8c9377fd1e74c18
+timeCreated: 1501035049
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Tower_1
+    21300002: Tower_2
+    21300004: Tower_3
+    21300006: Tower_4
+    21300008: Tower_5
+    21300010: Tower_6
+    21300012: Tower_7
+    21300014: Tower_8
+    21300016: Tower_9
+    21300018: Tower_10
+    21300020: Tower_11
+    21300022: Tower_12
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tower_1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 719
+        width: 204
+        height: 248
+      alignment: 9
+      pivot: {x: 0.5, y: 0.057435803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.56131, y: 61.55359}
+        - {x: -0.081085205, y: 70.80603}
+        - {x: -23.61676, y: 63.241333}
+        - {x: -66.18381, y: 41.083252}
+        - {x: -74.996124, y: -14.829712}
+        - {x: -100.312256, y: 9.299744}
+        - {x: -102, y: -119}
+        - {x: -99, y: -124}
+        - {x: 96, y: -124}
+        - {x: 102, y: -87}
+        - {x: 93.39551, y: 11.2561035}
+        - {x: 65.62906, y: 8.750916}
+        - {x: 51.367737, y: 23.427063}
+        - {x: 67.24902, y: 35.490295}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tower_2
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 719
+        width: 218
+        height: 282
+      alignment: 9
+      pivot: {x: 0.5217803, y: 0.079975754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 76}
+        - {x: 38, y: 67}
+        - {x: 41, y: 75}
+        - {x: 45, y: 121}
+        - {x: 24, y: 141}
+        - {x: -13.312256, y: 141}
+        - {x: -39.063232, y: 113.74707}
+        - {x: -49.43872, y: 96.81036}
+        - {x: -70.00391, y: 95.126465}
+        - {x: -75.818115, y: 61.498047}
+        - {x: -61.379395, y: 32.620667}
+        - {x: -50.126465, y: 17.553528}
+        - {x: -66.25293, y: -8.825745}
+        - {x: -84.13037, y: -19.517456}
+        - {x: -107.312256, y: -4.201294}
+        - {x: -109, y: -77}
+        - {x: -72, y: -141}
+        - {x: 83, y: -141}
+        - {x: 109, y: -78.687744}
+        - {x: 107.85925, y: -1.6983032}
+        - {x: 89.399414, y: -14.989624}
+        - {x: 71.58508, y: -2.263916}
+        - {x: 53.304504, y: 22.996094}
+        - {x: 73.312256, y: 67.74707}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tower_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 714
+        width: 188
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09976775}
+      border: {x: 0, y: 2, z: 0, w: 0}
+      outline:
+      - - {x: 34.117966, y: 50.785828}
+        - {x: -8.588478, y: 50.852844}
+        - {x: -51.29288, y: 30.911499}
+        - {x: -61.92399, y: 6.854004}
+        - {x: -72.94157, y: -3.505188}
+        - {x: -94, y: 7.889099}
+        - {x: -94, y: -116}
+        - {x: 53, y: -113}
+        - {x: 94, y: -99}
+        - {x: 94, y: -0.645813}
+        - {x: 57.625824, y: 4.5860596}
+        - {x: 53.494186, y: 26.996094}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tower_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 497
+        width: 180
+        height: 154
+      alignment: 9
+      pivot: {x: 0.54616106, y: 0.023123803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 77}
+        - {x: -90, y: 46}
+        - {x: -90, y: -38}
+        - {x: -72, y: -77}
+        - {x: 90, y: -77}
+        - {x: 90, y: 58}
+        - {x: 70, y: 77}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tower_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 497
+        width: 174
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5272874, y: 0.008186498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 72.5}
+        - {x: -87, y: 26.5}
+        - {x: -87, y: -46.5}
+        - {x: -80, y: -72.5}
+        - {x: 79, y: -72.5}
+        - {x: 87, y: -53.5}
+        - {x: 87, y: 21.5}
+        - {x: 36, y: 72.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tower_6
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 458
+        width: 202
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5176292, y: 0.055641014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82, y: 96}
+        - {x: -55, y: 96}
+        - {x: -101, y: 75}
+        - {x: -101, y: -40}
+        - {x: -97, y: -58}
+        - {x: -14, y: -96}
+        - {x: 32, y: -96}
+        - {x: 85, y: -58}
+        - {x: 101, y: -29}
+        - {x: 101, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tower_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 276
+        width: 174
+        height: 156
+      alignment: 9
+      pivot: {x: 0.4999998, y: 0.12935287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 78}
+        - {x: -87, y: 44}
+        - {x: -87, y: -67}
+        - {x: -84, y: -78}
+        - {x: 45, y: -78}
+        - {x: 87, y: -49}
+        - {x: 87, y: 4}
+        - {x: 40, y: 78}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tower_8
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 264
+        width: 178
+        height: 168
+      alignment: 9
+      pivot: {x: 0.53334284, y: 0.12717928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 84}
+        - {x: -89, y: 23}
+        - {x: -89, y: -47}
+        - {x: -88, y: -54}
+        - {x: -44, y: -84}
+        - {x: 59, y: -84}
+        - {x: 89, y: -81}
+        - {x: 89, y: 76}
+        - {x: 48, y: 84}
+      - - {x: -26, y: 82}
+        - {x: -26, y: 84}
+        - {x: -31, y: 84}
+        - {x: -29, y: 81}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tower_9
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 259
+        width: 178
+        height: 178
+      alignment: 9
+      pivot: {x: 0.52667475, y: 0.08669118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 89}
+        - {x: -42, y: 89}
+        - {x: -89, y: 55}
+        - {x: -89, y: -58}
+        - {x: -63, y: -89}
+        - {x: 89, y: -89}
+        - {x: 89, y: 64}
+        - {x: 40, y: 88}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tower_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 17
+        width: 176
+        height: 174
+      alignment: 9
+      pivot: {x: 0.51348853, y: 0.18419029}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50, y: 87}
+        - {x: -51, y: 87}
+        - {x: -88, y: 40}
+        - {x: -88, y: -42}
+        - {x: -80, y: -69}
+        - {x: -29, y: -87}
+        - {x: 51, y: -87}
+        - {x: 88, y: -46}
+        - {x: 88, y: 29}
+        - {x: 75, y: 64}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tower_11
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 17
+        width: 176
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5134884, y: 0.170474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65, y: 94}
+        - {x: -52, y: 94}
+        - {x: -88, y: 69}
+        - {x: -88, y: -67}
+        - {x: -25, y: -94}
+        - {x: 25, y: -94}
+        - {x: 80, y: -75}
+        - {x: 88, y: -61}
+        - {x: 88, y: 45}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tower_12
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 0
+        width: 182
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5260882, y: 0.197834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: 111}
+        - {x: -91, y: 58}
+        - {x: -91, y: -82}
+        - {x: -48, y: -111}
+        - {x: 80, y: -111}
+        - {x: 91, y: -103}
+        - {x: 91, y: 80}
+        - {x: 82, y: 111}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

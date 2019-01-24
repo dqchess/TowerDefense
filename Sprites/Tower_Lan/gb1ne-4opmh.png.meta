@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: e85e54bfc57eebf48a3e801c0ebef51f
+timeCreated: 1500021862
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gb1ne-4opmh_0
+    21300002: gb1ne-4opmh_1
+    21300004: gb1ne-4opmh_2
+    21300006: gb1ne-4opmh_3
+    21300008: gb1ne-4opmh_4
+    21300010: gb1ne-4opmh_5
+    21300012: gb1ne-4opmh_6
+    21300014: gb1ne-4opmh_7
+    21300016: gb1ne-4opmh_8
+    21300018: gb1ne-4opmh_9
+    21300020: gb1ne-4opmh_10
+    21300022: gb1ne-4opmh_11
+    21300024: gb1ne-4opmh_12
+    21300026: gb1ne-4opmh_13
+    21300028: gb1ne-4opmh_14
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gb1ne-4opmh_0
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 253
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gb1ne-4opmh_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 251
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gb1ne-4opmh_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 133
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gb1ne-4opmh_3
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 214
+        width: 75
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gb1ne-4opmh_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 128
+        width: 31
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gb1ne-4opmh_5
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 43
+        width: 30
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gb1ne-4opmh_6
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 49
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gb1ne-4opmh_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 113
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gb1ne-4opmh_8
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 113
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gb1ne-4opmh_9
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 120
+        width: 3
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gb1ne-4opmh_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 117
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gb1ne-4opmh_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 29
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gb1ne-4opmh_12
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 176
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gb1ne-4opmh_13
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 37
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gb1ne-4opmh_14
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 256
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

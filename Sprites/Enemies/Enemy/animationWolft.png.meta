@@ -1,0 +1,1184 @@
+fileFormatVersion: 2
+guid: fc5087f4e2046cf4aab2036476b46005
+timeCreated: 1499375709
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: animationWolft_0
+    21300002: animationWolft_1
+    21300004: animationWolft_2
+    21300006: animationWolft_3
+    21300008: animationWolft_4
+    21300010: animationWolft_5
+    21300012: animationWolft_6
+    21300014: animationWolft_7
+    21300016: animationWolft_8
+    21300018: animationWolft_9
+    21300020: animationWolft_10
+    21300022: animationWolft_11
+    21300024: animationWolft_12
+    21300026: animationWolft_13
+    21300028: animationWolft_14
+    21300030: animationWolft_15
+    21300032: animationWolft_16
+    21300034: animationWolft_17
+    21300036: animationWolft_18
+    21300038: animationWolft_19
+    21300040: animationWolft_20
+    21300042: animationWolft_21
+    21300044: animationWolft_22
+    21300046: animationWolft_23
+    21300048: animationWolft_24
+    21300050: animationWolft_25
+    21300052: animationWolft_26
+    21300054: animationWolft_27
+    21300056: animationWolft_28
+    21300058: animationWolft_29
+    21300060: animationWolft_30
+    21300062: animationWolft_31
+    21300064: animationWolft_32
+    21300066: animationWolft_33
+    21300068: animationWolft_34
+    21300070: animationWolft_35
+    21300072: animationWolft_36
+    21300074: animationWolft_37
+    21300076: animationWolft_38
+    21300078: animationWolft_39
+    21300080: animationWolft_40
+    21300082: animationWolft_41
+    21300084: animationWolft_42
+    21300086: animationWolft_43
+    21300088: animationWolft_44
+    21300090: animationWolft_45
+    21300092: animationWolft_46
+    21300094: animationWolft_47
+    21300096: animationWolft_48
+    21300098: animationWolft_49
+    21300100: animationWolft_50
+    21300102: animationWolft_51
+    21300104: animationWolft_52
+    21300106: animationWolft_53
+    21300108: animationWolft_54
+    21300110: animationWolft_55
+    21300112: animationWolft_56
+    21300114: animationWolft_57
+    21300116: animationWolft_58
+    21300118: animationWolft_59
+    21300120: animationWolft_60
+    21300122: animationWolft_61
+    21300124: animationWolft_62
+    21300126: animationWolft_63
+    21300128: animationWolft_64
+    21300130: animationWolft_65
+    21300132: animationWolft_66
+    21300134: animationWolft_67
+    21300136: animationWolft_68
+    21300138: animationWolft_69
+    21300140: animationWolft_70
+    21300142: animationWolft_71
+    21300144: animationWolft_72
+    21300146: animationWolft_73
+    21300148: animationWolft_74
+    21300150: animationWolft_75
+    21300152: animationWolft_76
+    21300154: animationWolft_77
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animationWolft_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 321
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 321
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 321
+        width: 23
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 321
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 321
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 324
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_8
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 352
+        width: 61
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_9
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 352
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 257
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_11
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 257
+        width: 23
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 258
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 197
+        width: 23
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_14
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 260
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_15
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 260
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_16
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 260
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 260
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_20
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 64
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_21
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 288
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 224
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_25
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 256
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 192
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_27
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 197
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_28
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 192
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_29
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 194
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_30
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 195
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_31
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 194
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_32
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 195
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 63
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_34
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 224
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_35
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 224
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_37
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 192
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_38
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 191
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_39
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 133
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_40
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 131
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_41
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 128
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_42
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 128
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_43
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 130
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_44
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 131
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_45
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 130
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_46
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 129
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_47
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 132
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_48
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 131
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_50
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 160
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_51
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 160
+        width: 61
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_52
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 160
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_53
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 65
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_54
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 65
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_55
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 65
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_56
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 65
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_57
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 65
+        width: 23
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_58
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 68
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_59
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 68
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_60
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 67
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_61
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 68
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_62
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 68
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_63
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_64
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_65
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 64
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_66
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 96
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_67
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_69
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 32
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_70
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_71
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 63
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_72
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 32
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_73
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 32
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_75
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animationWolft_77
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 0
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

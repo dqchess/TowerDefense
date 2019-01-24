@@ -1,0 +1,1352 @@
+fileFormatVersion: 2
+guid: ac14a0ca9d31ad74989f8affcfa5bbed
+timeCreated: 1500363000
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Warwick_0
+    21300002: Warwick_1
+    21300004: Warwick_2
+    21300006: Warwick_3
+    21300008: Warwick_4
+    21300010: Warwick_5
+    21300012: Warwick_6
+    21300014: Warwick_7
+    21300016: Warwick_8
+    21300018: Warwick_9
+    21300020: Warwick_10
+    21300022: Warwick_11
+    21300024: Warwick_12
+    21300026: Warwick_13
+    21300028: Warwick_14
+    21300030: Warwick_15
+    21300032: Warwick_16
+    21300034: Warwick_17
+    21300036: Warwick_18
+    21300038: Warwick_19
+    21300040: Warwick_20
+    21300042: Warwick_21
+    21300044: Warwick_22
+    21300046: Warwick_23
+    21300048: Warwick_24
+    21300050: Warwick_25
+    21300052: Warwick_26
+    21300054: Warwick_27
+    21300056: Warwick_28
+    21300058: Warwick_29
+    21300060: Warwick_30
+    21300062: Warwick_31
+    21300064: Warwick_32
+    21300066: Warwick_33
+    21300068: Warwick_34
+    21300070: Warwick_35
+    21300072: Warwick_36
+    21300074: Warwick_37
+    21300076: Warwick_38
+    21300078: Warwick_39
+    21300080: Warwick_40
+    21300082: Warwick_41
+    21300084: Warwick_42
+    21300086: Warwick_43
+    21300088: Warwick_44
+    21300090: Warwick_45
+    21300092: Warwick_46
+    21300094: Warwick_47
+    21300096: Warwick_48
+    21300098: Warwick_49
+    21300100: Warwick_50
+    21300102: Warwick_51
+    21300104: Warwick_52
+    21300106: Warwick_53
+    21300108: Warwick_54
+    21300110: Warwick_55
+    21300112: Warwick_56
+    21300114: Warwick_57
+    21300116: Warwick_58
+    21300118: Warwick_59
+    21300120: Warwick_60
+    21300122: Warwick_61
+    21300124: Warwick_62
+    21300126: Warwick_63
+    21300128: Warwick_64
+    21300130: Warwick_65
+    21300132: Warwick_66
+    21300134: Warwick_67
+    21300136: Warwick_68
+    21300138: Warwick_69
+    21300140: Warwick_70
+    21300142: Warwick_71
+    21300144: Warwick_72
+    21300146: Warwick_73
+    21300148: Warwick_74
+    21300150: Warwick_75
+    21300152: Warwick_76
+    21300154: Warwick_77
+    21300156: Warwick_78
+    21300158: Warwick_79
+    21300160: Warwick_80
+    21300162: Warwick_81
+    21300164: Warwick_82
+    21300166: Warwick_83
+    21300168: Warwick_84
+    21300170: Warwick_85
+    21300172: Warwick_86
+    21300174: Warwick_87
+    21300176: Warwick_88
+    21300178: Warwick_89
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Warwick_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 412
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 412
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 413
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 414
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 414
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_5
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 414
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_6
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 404
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_7
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 404
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_8
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 405
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_9
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 405
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_10
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 404
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_11
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 404
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_12
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 410
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_13
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 410
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_14
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 411
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_15
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 412
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 334
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_17
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 333
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_18
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 328
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_19
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 328
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_20
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 328
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_21
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 330
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_22
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 330
+        width: 81
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_23
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 329
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_24
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 329
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_25
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 329
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_26
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 329
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_27
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 330
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_28
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 330
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_29
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 330
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 270
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_31
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 261
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_32
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 256
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_33
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 270
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_34
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 261
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_35
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 256
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_36
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 270
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_37
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 260
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_38
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 258
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_39
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 260
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_40
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 259
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_41
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 257
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_42
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 263
+        width: 78
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_43
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 260
+        width: 83
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_44
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 264
+        width: 78
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 183
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_46
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 182
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_47
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 192
+        width: 78
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_48
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 185
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_49
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 179
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_50
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 188
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_51
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 190
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_52
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 172
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_53
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 181
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_54
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 185
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_55
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 172
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_56
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 178
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_57
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 184
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_58
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 172
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_59
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 178
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 102
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_61
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 101
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_62
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 78
+        width: 63
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_63
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 92
+        width: 49
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_64
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 102
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_65
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 106
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_66
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 94
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_67
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 103
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_68
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 98
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_69
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 102
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_70
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 105
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_71
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 101
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_72
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 100
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_73
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 105
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_74
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 106
+        width: 77
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_75
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_76
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 6
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_77
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 7
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_78
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_79
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 10
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_80
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 15
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_81
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 5
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_82
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 4
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_83
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 2
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_84
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 3
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_85
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 2
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_86
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 4
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_87
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 6
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_88
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 9
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Warwick_89
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 10
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

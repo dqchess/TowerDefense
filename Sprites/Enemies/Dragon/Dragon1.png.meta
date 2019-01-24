@@ -1,0 +1,1764 @@
+fileFormatVersion: 2
+guid: 5eb7a251504917249b789ea03a5ef84b
+timeCreated: 1500362406
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Dragon1_0
+    21300002: Dragon1_1
+    21300004: Dragon1_2
+    21300006: Dragon1_3
+    21300008: Dragon1_4
+    21300010: Dragon1_5
+    21300012: Dragon1_6
+    21300014: Dragon1_7
+    21300016: Dragon1_8
+    21300018: Dragon1_9
+    21300020: Dragon1_10
+    21300022: Dragon1_11
+    21300024: Dragon1_12
+    21300026: Dragon1_13
+    21300028: Dragon1_14
+    21300030: Dragon1_15
+    21300032: Dragon1_16
+    21300034: Dragon1_17
+    21300036: Dragon1_18
+    21300038: Dragon1_19
+    21300040: Dragon1_20
+    21300042: Dragon1_21
+    21300044: Dragon1_22
+    21300046: Dragon1_23
+    21300048: Dragon1_24
+    21300050: Dragon1_25
+    21300052: Dragon1_26
+    21300054: Dragon1_27
+    21300056: Dragon1_28
+    21300058: Dragon1_29
+    21300060: Dragon1_30
+    21300062: Dragon1_31
+    21300064: Dragon1_32
+    21300066: Dragon1_33
+    21300068: Dragon1_34
+    21300070: Dragon1_35
+    21300072: Dragon1_36
+    21300074: Dragon1_37
+    21300076: Dragon1_38
+    21300078: Dragon1_39
+    21300080: Dragon1_40
+    21300082: Dragon1_41
+    21300084: Dragon1_42
+    21300086: Dragon1_43
+    21300088: Dragon1_44
+    21300090: Dragon1_45
+    21300092: Dragon1_46
+    21300094: Dragon1_47
+    21300096: Dragon1_48
+    21300098: Dragon1_49
+    21300100: Dragon1_50
+    21300102: Dragon1_51
+    21300104: Dragon1_52
+    21300106: Dragon1_53
+    21300108: Dragon1_54
+    21300110: Dragon1_55
+    21300112: Dragon1_56
+    21300114: Dragon1_57
+    21300116: Dragon1_58
+    21300118: Dragon1_59
+    21300120: Dragon1_60
+    21300122: Dragon1_61
+    21300124: Dragon1_62
+    21300126: Dragon1_63
+    21300128: Dragon1_64
+    21300130: Dragon1_65
+    21300132: Dragon1_66
+    21300134: Dragon1_67
+    21300136: Dragon1_68
+    21300138: Dragon1_69
+    21300140: Dragon1_70
+    21300142: Dragon1_71
+    21300144: Dragon1_72
+    21300146: Dragon1_73
+    21300148: Dragon1_74
+    21300150: Dragon1_75
+    21300152: Dragon1_76
+    21300154: Dragon1_77
+    21300156: Dragon1_78
+    21300158: Dragon1_79
+    21300160: Dragon1_80
+    21300162: Dragon1_81
+    21300164: Dragon1_82
+    21300166: Dragon1_83
+    21300168: Dragon1_84
+    21300170: Dragon1_85
+    21300172: Dragon1_86
+    21300174: Dragon1_87
+    21300176: Dragon1_88
+    21300178: Dragon1_89
+    21300180: Dragon1_90
+    21300182: Dragon1_91
+    21300184: Dragon1_92
+    21300186: Dragon1_93
+    21300188: Dragon1_94
+    21300190: Dragon1_95
+    21300192: Dragon1_96
+    21300194: Dragon1_97
+    21300196: Dragon1_98
+    21300198: Dragon1_99
+    21300200: Dragon1_100
+    21300202: Dragon1_101
+    21300204: Dragon1_102
+    21300206: Dragon1_103
+    21300208: Dragon1_104
+    21300210: Dragon1_105
+    21300212: Dragon1_106
+    21300214: Dragon1_107
+    21300216: Dragon1_108
+    21300218: Dragon1_109
+    21300220: Dragon1_110
+    21300222: Dragon1_111
+    21300224: Dragon1_112
+    21300226: Dragon1_113
+    21300228: Dragon1_114
+    21300230: Dragon1_115
+    21300232: Dragon1_116
+    21300234: Dragon1_117
+    21300236: Dragon1_118
+    21300238: Dragon1_119
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dragon1_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1183
+        width: 197
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1165
+        width: 173
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_2
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1148
+        width: 95
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_3
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1145
+        width: 58
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_4
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1143
+        width: 116
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_5
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1171
+        width: 165
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_6
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1205
+        width: 195
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_7
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1193
+        width: 197
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_8
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1149
+        width: 158
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_9
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1151
+        width: 125
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_10
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1147
+        width: 117
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_11
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1163
+        width: 96
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_12
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 1143
+        width: 107
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_13
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 1147
+        width: 140
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1039
+        width: 149
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_15
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1033
+        width: 153
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_16
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 996
+        width: 140
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_17
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1015
+        width: 146
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_18
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1038
+        width: 142
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_19
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1048
+        width: 140
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_20
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1028
+        width: 142
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_21
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1018
+        width: 139
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_22
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1004
+        width: 130
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_23
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 996
+        width: 128
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_24
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1004
+        width: 150
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_25
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1020
+        width: 120
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_26
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1047
+        width: 117
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_27
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1037
+        width: 106
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 874
+        width: 107
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_29
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 860
+        width: 140
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_30
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 856
+        width: 149
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_31
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 856
+        width: 140
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_32
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 858
+        width: 197
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_33
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 871
+        width: 173
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_34
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 883
+        width: 96
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_35
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 876
+        width: 58
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_36
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 865
+        width: 116
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_37
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 852
+        width: 165
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_38
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 850
+        width: 195
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_39
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 852
+        width: 197
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_40
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 892
+        width: 197
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 726
+        width: 173
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_42
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 723
+        width: 95
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_43
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 722
+        width: 58
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_44
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 728
+        width: 116
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_45
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 752
+        width: 165
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_46
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 770
+        width: 195
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_47
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 761
+        width: 197
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_48
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 734
+        width: 158
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_49
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 739
+        width: 127
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_50
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 723
+        width: 108
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_51
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 742
+        width: 103
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_52
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 726
+        width: 117
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_53
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 727
+        width: 134
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_54
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 740
+        width: 148
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 611
+        width: 151
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_56
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 574
+        width: 152
+        height: 146
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_57
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 596
+        width: 156
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_58
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 611
+        width: 150
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_59
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 629
+        width: 152
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_60
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 605
+        width: 157
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_61
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 590
+        width: 154
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_62
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 583
+        width: 144
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_63
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 577
+        width: 143
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_64
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 598
+        width: 150
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_65
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 602
+        width: 132
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_66
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 623
+        width: 114
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_67
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 620
+        width: 114
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_68
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 451
+        width: 118
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_69
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 437
+        width: 134
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_70
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 446
+        width: 148
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_71
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 447
+        width: 142
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_72
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 450
+        width: 197
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_73
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 460
+        width: 173
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_74
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 469
+        width: 95
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_75
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 461
+        width: 58
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_76
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 454
+        width: 116
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_77
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 440
+        width: 165
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_78
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 437
+        width: 195
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_79
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 444
+        width: 198
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_80
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 492
+        width: 197
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_81
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 347
+        width: 173
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_82
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 333
+        width: 95
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_83
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 347
+        width: 71
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_84
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 325
+        width: 134
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_85
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 301
+        width: 181
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_86
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 310
+        width: 177
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_87
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 324
+        width: 197
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_88
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 321
+        width: 158
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_89
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 317
+        width: 122
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_90
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 331
+        width: 120
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_91
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 347
+        width: 103
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_92
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 316
+        width: 123
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_93
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 322
+        width: 146
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_94
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 173
+        width: 140
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_95
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 167
+        width: 150
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_96
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 154
+        width: 140
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_97
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 173
+        width: 130
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_98
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 206
+        width: 119
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_99
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 217
+        width: 124
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_100
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 189
+        width: 156
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_101
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 171
+        width: 152
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_102
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 173
+        width: 142
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_103
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 157
+        width: 154
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_104
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 162
+        width: 150
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_105
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 162
+        width: 122
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_106
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 171
+        width: 120
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_107
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 184
+        width: 103
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_108
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 50
+        width: 123
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_109
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 56
+        width: 146
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_110
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 33
+        width: 140
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_111
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 32
+        width: 152
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_112
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 16
+        width: 197
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_113
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 10
+        width: 173
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_114
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 11
+        width: 95
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_115
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 20
+        width: 71
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_116
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 27
+        width: 134
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_117
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 66
+        width: 181
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_118
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 59
+        width: 177
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dragon1_119
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 42
+        width: 197
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

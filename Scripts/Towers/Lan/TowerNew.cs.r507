@@ -1,0 +1,100 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class TowerNew : MonoBehaviour
+{
+    public GameObject chop;
+    public GameObject bullet;
+  
+    int numberOfUpgrades;
+    int refundAmount;
+    int currentLevel;
+
+    public int maxUpgradeLevel;
+
+    public int attackDamage;
+    public int towerCost;
+    public float radiusDamage;
+    public float attackSpeed;
+
+    float currentTime;
+
+    bool isSelected;
+    bool isLockTarget;
+    public GameObject target;
+
+    public AudioClip soundBullet;
+    private AudioSource source;
+    private float lengthSound;
+
+
+    void Awake()
+    {
+        
+    }
+    void Start()
+    {
+    }
+
+    void Update()
+    {
+        if (isLockTarget && currentTime==0)
+        {
+            Shooting(target);
+            currentTime = attackSpeed;        
+        }
+        Timer();
+        if (target == null)
+        {
+            isLockTarget = false;
+        }
+    }
+
+    void Timer()
+    {
+        if (currentTime > 0)
+        {
+            currentTime -= Time.deltaTime;
+            if (currentTime < 0)
+                currentTime = 0;
+        }
+    }
+
+    void Shooting(GameObject _target)
+    {
+        if (_target == null)
+        {
+            Debug.Log("destroy");
+           
+        }
+        else
+        {
+            
+            GameObject _bullet = Instantiate(bullet, chop.transform.position, Quaternion.Euler(new Vector3(0f,0f,0f)));
+            Projectiles _classBullet = _bullet.GetComponent<Projectiles>();
+            _classBullet.target = _target.transform.position;
+            _classBullet.Target = _target;
+            //SoundBullet.PlaySound(soundBulletGame.ARROW);
+
+        }
+    }
+
+    void OnTriggerStay2D(Collider2D coll)
+    {
+        if (coll.gameObject.tag == "Enemy" && !isLockTarget)
+        {
+            target = coll.gameObject;
+            isLockTarget = true;
+        }
+    }
+
+    void OnTriggerExit2D(Collider2D coll)
+    {
+        if (coll.gameObject.tag == "Enemy" && isLockTarget)
+        {
+            isLockTarget = false;
+        }
+
+    }
+}

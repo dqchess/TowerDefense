@@ -1,0 +1,1610 @@
+fileFormatVersion: 2
+guid: ee511cfdeeadc7b40abfc3a2699c9d72
+timeCreated: 1499966320
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NagaSiren_0
+    21300002: NagaSiren_1
+    21300004: NagaSiren_2
+    21300006: NagaSiren_3
+    21300008: NagaSiren_4
+    21300010: NagaSiren_5
+    21300012: NagaSiren_6
+    21300014: NagaSiren_7
+    21300016: NagaSiren_8
+    21300018: NagaSiren_9
+    21300020: NagaSiren_10
+    21300022: NagaSiren_11
+    21300024: NagaSiren_12
+    21300026: NagaSiren_13
+    21300028: NagaSiren_14
+    21300030: NagaSiren_15
+    21300032: NagaSiren_16
+    21300034: NagaSiren_17
+    21300036: NagaSiren_18
+    21300038: NagaSiren_19
+    21300040: NagaSiren_20
+    21300042: NagaSiren_21
+    21300044: NagaSiren_22
+    21300046: NagaSiren_23
+    21300048: NagaSiren_24
+    21300050: NagaSiren_25
+    21300052: NagaSiren_26
+    21300054: NagaSiren_27
+    21300056: NagaSiren_28
+    21300058: NagaSiren_29
+    21300060: NagaSiren_30
+    21300062: NagaSiren_31
+    21300064: NagaSiren_32
+    21300066: NagaSiren_33
+    21300068: NagaSiren_34
+    21300070: NagaSiren_35
+    21300072: NagaSiren_36
+    21300074: NagaSiren_37
+    21300076: NagaSiren_38
+    21300078: NagaSiren_39
+    21300080: NagaSiren_40
+    21300082: NagaSiren_41
+    21300084: NagaSiren_42
+    21300086: NagaSiren_43
+    21300088: NagaSiren_44
+    21300090: NagaSiren_45
+    21300092: NagaSiren_46
+    21300094: NagaSiren_47
+    21300096: NagaSiren_48
+    21300098: NagaSiren_49
+    21300100: NagaSiren_50
+    21300102: NagaSiren_51
+    21300104: NagaSiren_52
+    21300106: NagaSiren_53
+    21300108: NagaSiren_54
+    21300110: NagaSiren_55
+    21300112: NagaSiren_56
+    21300114: NagaSiren_57
+    21300116: NagaSiren_58
+    21300118: NagaSiren_59
+    21300120: NagaSiren_60
+    21300122: NagaSiren_61
+    21300124: NagaSiren_62
+    21300126: NagaSiren_63
+    21300128: NagaSiren_64
+    21300130: NagaSiren_65
+    21300132: NagaSiren_66
+    21300134: NagaSiren_67
+    21300136: NagaSiren_68
+    21300138: NagaSiren_69
+    21300140: NagaSiren_70
+    21300142: NagaSiren_71
+    21300144: NagaSiren_72
+    21300146: NagaSiren_73
+    21300148: NagaSiren_74
+    21300150: NagaSiren_75
+    21300152: NagaSiren_76
+    21300154: NagaSiren_77
+    21300156: NagaSiren_78
+    21300158: NagaSiren_79
+    21300160: NagaSiren_80
+    21300162: NagaSiren_81
+    21300164: NagaSiren_82
+    21300166: NagaSiren_83
+    21300168: NagaSiren_84
+    21300170: NagaSiren_85
+    21300172: NagaSiren_86
+    21300174: NagaSiren_87
+    21300176: NagaSiren_88
+    21300178: NagaSiren_89
+    21300180: NagaSiren_90
+    21300182: NagaSiren_91
+    21300184: NagaSiren_92
+    21300186: NagaSiren_93
+    21300188: NagaSiren_94
+    21300190: NagaSiren_95
+    21300192: NagaSiren_96
+    21300194: NagaSiren_97
+    21300196: NagaSiren_98
+    21300198: NagaSiren_99
+    21300200: NagaSiren_100
+    21300202: NagaSiren_101
+    21300204: NagaSiren_102
+    21300206: NagaSiren_103
+    21300208: NagaSiren_104
+    21300210: NagaSiren_105
+    21300212: NagaSiren_106
+    21300214: NagaSiren_107
+    21300216: NagaSiren_108
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NagaSiren_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1860
+        width: 108
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1858
+        width: 103
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_4
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1858
+        width: 109
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_5
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1852
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1751
+        width: 104
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1753
+        width: 106
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_8
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1752
+        width: 105
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_9
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1752
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_10
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1751
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1648
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1648
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1632
+        width: 57
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_14
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1631
+        width: 60
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_15
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1632
+        width: 65
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_16
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1632
+        width: 69
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_17
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1632
+        width: 68
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1512
+        width: 65
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_19
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1511
+        width: 62
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_20
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1511
+        width: 60
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_21
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1525
+        width: 60
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_22
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1526
+        width: 54
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_23
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1526
+        width: 59
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_24
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1525
+        width: 61
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1406
+        width: 62
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_26
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1409
+        width: 58
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_27
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1407
+        width: 78
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_28
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1408
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_29
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1410
+        width: 108
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1304
+        width: 108
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_31
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1305
+        width: 97
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_32
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1306
+        width: 88
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_33
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1305
+        width: 75
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_34
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1307
+        width: 122
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1205
+        width: 125
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_36
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1204
+        width: 127
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_37
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1203
+        width: 131
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_38
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1204
+        width: 127
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1104
+        width: 125
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_40
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1104
+        width: 126
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_41
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1103
+        width: 124
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_42
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 973
+        width: 119
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 976
+        width: 113
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_44
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 969
+        width: 104
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_45
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 966
+        width: 95
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_46
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 967
+        width: 90
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 852
+        width: 106
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_48
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 858
+        width: 120
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_49
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 839
+        width: 60
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_50
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 838
+        width: 56
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_51
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 838
+        width: 55
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_52
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 836
+        width: 57
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_53
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 838
+        width: 58
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 708
+        width: 61
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_55
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 604
+        width: 60
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_56
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 706
+        width: 61
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_57
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 734
+        width: 57
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_58
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 735
+        width: 55
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_59
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 736
+        width: 53
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_60
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 736
+        width: 55
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_61
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 734
+        width: 56
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_62
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 602
+        width: 63
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_63
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 605
+        width: 344
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_64
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 609
+        width: 87
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 502
+        width: 88
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_66
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 502
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_67
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 513
+        width: 117
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_68
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 513
+        width: 129
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_69
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 413
+        width: 128
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 2, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_70
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 416
+        width: 117
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_71
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 413
+        width: 114
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_72
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 408
+        width: 116
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_73
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 313
+        width: 129
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_74
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 315
+        width: 122
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_75
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 306
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_76
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 300
+        width: 107
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_77
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 291
+        width: 109
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_78
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 174
+        width: 113
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_79
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 173
+        width: 109
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_80
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 171
+        width: 106
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_81
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 172
+        width: 109
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_82
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 189
+        width: 104
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_83
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 51
+        width: 57
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_84
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 49
+        width: 55
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_85
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 41
+        width: 53
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_86
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 39
+        width: 55
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_87
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 39
+        width: 58
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_88
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 39
+        width: 58
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_89
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 39
+        width: 63
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_90
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 54
+        width: 64
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_91
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 7
+        width: 96
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_92
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 18
+        width: 80
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_93
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 733
+        width: 58
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_94
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1525
+        width: 53
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_95
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1527
+        width: 57
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_96
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 705
+        width: 59
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2057
+        width: 76
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_97
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2056
+        width: 76
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_98
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2056
+        width: 77
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_99
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2058
+        width: 81
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_100
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 2056
+        width: 77
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_101
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2058
+        width: 76
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_102
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 2058
+        width: 79
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1957
+        width: 79
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_103
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1961
+        width: 118
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_104
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1962
+        width: 116
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_105
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1962
+        width: 114
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_106
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1962
+        width: 108
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1858
+        width: 110
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NagaSiren_108
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1859
+        width: 114
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

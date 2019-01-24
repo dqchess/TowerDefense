@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: 358d5d248a5387f4490a9510af77d5a5
+timeCreated: 1500457435
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 61770_0
+    21300002: 61770_1
+    21300004: 61770_2
+    21300006: 61770_3
+    21300008: 61770_4
+    21300010: 61770_5
+    21300012: 61770_12
+    21300014: 61770_13
+    21300016: 61770_14
+    21300018: 61770_15
+    21300020: 61770_16
+    21300022: 61770_17
+    21300024: 61770_24
+    21300026: 61770_25
+    21300028: 61770_26
+    21300030: 61770_27
+    21300032: 61770_28
+    21300034: 61770_29
+    21300036: 61770_30
+    21300038: 61770_31
+    21300040: 61770_32
+    21300042: 61770_33
+    21300044: 61770_34
+    21300046: 61770_35
+    21300048: 61770_42
+    21300050: 61770_43
+    21300052: 61770_44
+    21300054: 61770_45
+    21300056: 61770_46
+    21300058: 61770_47
+    21300060: 61770_54
+    21300062: 61770_55
+    21300064: 61770_56
+    21300066: 61770_57
+    21300068: 61770_58
+    21300070: 61770_59
+    21300072: 61770_60
+    21300074: 61770_61
+    21300076: 61770_62
+    21300078: 61770_63
+    21300080: 61770_64
+    21300082: 61770_65
+    21300084: 61770_72
+    21300086: 61770_73
+    21300088: 61770_74
+    21300090: 61770_75
+    21300092: 61770_76
+    21300094: 61770_77
+    21300096: 61770_84
+    21300098: 61770_85
+    21300100: 61770_86
+    21300102: 61770_87
+    21300104: 61770_88
+    21300106: 61770_89
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 61770_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1963
+        width: 68
+        height: 55
+      alignment: 9
+      pivot: {x: 0.557412, y: 0.27517313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1963
+        width: 68
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5573682, y: 0.27588555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1963
+        width: 68
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5541815, y: 0.26723856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1906
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.54418874, y: 0.27776545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1906
+        width: 66
+        height: 55
+      alignment: 9
+      pivot: {x: 0.55970186, y: 0.28104582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1906
+        width: 67
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5647155, y: 0.28950417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1723
+        width: 51
+        height: 57
+      alignment: 9
+      pivot: {x: 0.58076894, y: 0.2877133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1722
+        width: 52
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5742648, y: 0.2736185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_14
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1723
+        width: 52
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5841666, y: 0.2831967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1664
+        width: 50
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5823845, y: 0.28392246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1664
+        width: 49
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5735576, y: 0.28392246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_17
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1664
+        width: 49
+        height: 56
+      alignment: 9
+      pivot: {x: 0.57881135, y: 0.293117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1479
+        width: 68
+        height: 62
+      alignment: 9
+      pivot: {x: 0.3459698, y: 0.2585351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1480
+        width: 69
+        height: 61
+      alignment: 9
+      pivot: {x: 0.33622167, y: 0.23833929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1480
+        width: 68
+        height: 61
+      alignment: 9
+      pivot: {x: 0.33829385, y: 0.23622006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1416
+        width: 66
+        height: 61
+      alignment: 9
+      pivot: {x: 0.3557667, y: 0.25220126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_28
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1415
+        width: 66
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36353534, y: 0.2502087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_29
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1415
+        width: 67
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36783475, y: 0.2597164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1360
+        width: 70
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5398262, y: 0.32663253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_31
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1363
+        width: 71
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5870257, y: 0.2611914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_32
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1359
+        width: 58
+        height: 54
+      alignment: 9
+      pivot: {x: 0.48270154, y: 0.340861}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1303
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.4819258, y: 0.302228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_34
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1307
+        width: 56
+        height: 50
+      alignment: 9
+      pivot: {x: 0.46369416, y: 0.23527099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_35
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1308
+        width: 68
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5605769, y: 0.28204718}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_42
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1132
+        width: 52
+        height: 53
+      alignment: 9
+      pivot: {x: 0.63862765, y: 0.30083653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_43
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1131
+        width: 49
+        height: 54
+      alignment: 9
+      pivot: {x: 0.6418608, y: 0.2806894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_44
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1128
+        width: 60
+        height: 57
+      alignment: 9
+      pivot: {x: 0.6973793, y: 0.2786801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1069
+        width: 61
+        height: 57
+      alignment: 9
+      pivot: {x: 0.7110255, y: 0.30126524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_46
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1071
+        width: 57
+        height: 55
+      alignment: 9
+      pivot: {x: 0.6987342, y: 0.26595125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_47
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1069
+        width: 51
+        height: 57
+      alignment: 9
+      pivot: {x: 0.6161056, y: 0.28771544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 869
+        width: 70
+        height: 63
+      alignment: 9
+      pivot: {x: 0.34552926, y: 0.28749883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_55
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 869
+        width: 71
+        height: 63
+      alignment: 9
+      pivot: {x: 0.37671348, y: 0.27524045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_56
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 870
+        width: 58
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5088777, y: 0.27576765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_57
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 804
+        width: 56
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5689601, y: 0.27932593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_58
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 803
+        width: 56
+        height: 64
+      alignment: 9
+      pivot: {x: 0.52758396, y: 0.27875233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_59
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 805
+        width: 68
+        height: 62
+      alignment: 9
+      pivot: {x: 0.39777666, y: 0.29652947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 746
+        width: 68
+        height: 55
+      alignment: 9
+      pivot: {x: 0.55679077, y: 0.27063322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_61
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 705
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.26400295, y: 0.19427617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_62
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 713
+        width: 61
+        height: 88
+      alignment: 9
+      pivot: {x: 0.42825142, y: 0.14600372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 641
+        width: 70
+        height: 62
+      alignment: 9
+      pivot: {x: 0.3161063, y: 0.40864512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_64
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 648
+        width: 68
+        height: 55
+      alignment: 9
+      pivot: {x: 0.3674883, y: 0.32680443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_65
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 647
+        width: 66
+        height: 56
+      alignment: 9
+      pivot: {x: 0.4024804, y: 0.30231258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 421
+        width: 51
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5757209, y: 0.2786817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_73
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 405
+        width: 86
+        height: 73
+      alignment: 9
+      pivot: {x: 0.38624254, y: 0.1684863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_74
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 332
+        width: 90
+        height: 71
+      alignment: 9
+      pivot: {x: 0.36841375, y: 0.15914787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_75
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 340
+        width: 70
+        height: 63
+      alignment: 9
+      pivot: {x: 0.6802159, y: 0.40600926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_76
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 265
+        width: 62
+        height: 65
+      alignment: 9
+      pivot: {x: 0.72007924, y: 0.40890127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_77
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 265
+        width: 59
+        height: 65
+      alignment: 9
+      pivot: {x: 0.69636106, y: 0.3613718}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 74
+        width: 68
+        height: 62
+      alignment: 9
+      pivot: {x: 0.33873123, y: 0.09011779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_85
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 75
+        width: 48
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5564108, y: 0.103886336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_86
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 74
+        width: 61
+        height: 62
+      alignment: 9
+      pivot: {x: 0.4965863, y: 0.11741244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_87
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.699184, y: 0.16381969}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_88
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 7
+        width: 68
+        height: 65
+      alignment: 9
+      pivot: {x: 0.67130786, y: 0.10689829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 61770_89
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 8
+        width: 66
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5862989, y: 0.11083545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

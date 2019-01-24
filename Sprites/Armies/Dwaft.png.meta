@@ -1,0 +1,1616 @@
+fileFormatVersion: 2
+guid: 7b0679b308d846f48bd9997ac27107a9
+timeCreated: 1500883620
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Dwaft_0
+    21300002: Dwaft_1
+    21300004: Dwaft_2
+    21300006: Dwaft_3
+    21300008: Dwaft_4
+    21300010: Dwaft_5
+    21300012: Dwaft_6
+    21300014: Dwaft_7
+    21300016: Dwaft_8
+    21300018: Dwaft_9
+    21300020: Dwaft_10
+    21300022: Dwaft_11
+    21300024: Dwaft_12
+    21300026: Dwaft_13
+    21300028: Dwaft_14
+    21300030: Dwaft_15
+    21300032: Dwaft_16
+    21300034: Dwaft_17
+    21300036: Dwaft_18
+    21300038: Dwaft_19
+    21300040: Dwaft_20
+    21300042: Dwaft_21
+    21300044: Dwaft_22
+    21300046: Dwaft_23
+    21300048: Dwaft_24
+    21300050: Dwaft_25
+    21300052: Dwaft_26
+    21300054: Dwaft_27
+    21300056: Dwaft_28
+    21300058: Dwaft_29
+    21300060: Dwaft_30
+    21300062: Dwaft_31
+    21300064: Dwaft_32
+    21300066: Dwaft_33
+    21300068: Dwaft_34
+    21300070: Dwaft_35
+    21300072: Dwaft_36
+    21300074: Dwaft_37
+    21300076: Dwaft_38
+    21300078: Dwaft_39
+    21300080: Dwaft_40
+    21300082: Dwaft_41
+    21300084: Dwaft_42
+    21300086: Dwaft_43
+    21300088: Dwaft_44
+    21300090: Dwaft_45
+    21300092: Dwaft_46
+    21300094: Dwaft_47
+    21300096: Dwaft_48
+    21300098: Dwaft_49
+    21300100: Dwaft_50
+    21300102: Dwaft_51
+    21300104: Dwaft_52
+    21300106: Dwaft_53
+    21300108: Dwaft_54
+    21300110: Dwaft_55
+    21300112: Dwaft_56
+    21300114: Dwaft_57
+    21300116: Dwaft_58
+    21300118: Dwaft_59
+    21300120: Dwaft_60
+    21300122: Dwaft_61
+    21300124: Dwaft_62
+    21300126: Dwaft_63
+    21300128: Dwaft_64
+    21300130: Dwaft_65
+    21300132: Dwaft_66
+    21300134: Dwaft_67
+    21300136: Dwaft_68
+    21300138: Dwaft_69
+    21300140: Dwaft_70
+    21300142: Dwaft_71
+    21300144: Dwaft_72
+    21300146: Dwaft_73
+    21300148: Dwaft_74
+    21300150: Dwaft_75
+    21300152: Dwaft_76
+    21300154: Dwaft_77
+    21300156: Dwaft_78
+    21300158: Dwaft_79
+    21300160: Dwaft_80
+    21300162: Dwaft_81
+    21300164: Dwaft_82
+    21300166: Dwaft_83
+    21300168: Dwaft_84
+    21300170: Dwaft_85
+    21300172: Dwaft_86
+    21300174: Dwaft_87
+    21300176: Dwaft_88
+    21300178: Dwaft_89
+    21300180: Dwaft_90
+    21300182: Dwaft_91
+    21300184: Dwaft_92
+    21300186: Dwaft_93
+    21300188: Dwaft_94
+    21300190: Dwaft_95
+    21300192: Dwaft_96
+    21300194: Dwaft_97
+    21300196: Dwaft_98
+    21300198: Dwaft_99
+    21300200: Dwaft_100
+    21300202: Dwaft_101
+    21300204: Dwaft_102
+    21300206: Dwaft_103
+    21300208: Dwaft_104
+    21300210: Dwaft_105
+    21300212: Dwaft_106
+    21300214: Dwaft_107
+    21300216: Dwaft_108
+    21300218: Dwaft_109
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dwaft_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 838
+        width: 69
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 838
+        width: 70
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 839
+        width: 72
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 839
+        width: 69
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_4
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 839
+        width: 69
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_5
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 839
+        width: 69
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 846
+        width: 71
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_7
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 847
+        width: 72
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_8
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 847
+        width: 75
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_9
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 847
+        width: 71
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_10
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 847
+        width: 71
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_11
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 847
+        width: 71
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_12
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 850
+        width: 71
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_13
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 850
+        width: 71
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_14
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 850
+        width: 70
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_15
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 850
+        width: 70
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 738
+        width: 69
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_17
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 737
+        width: 70
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 735
+        width: 80
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_19
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 732
+        width: 80
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_20
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 732
+        width: 80
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_21
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 733
+        width: 80
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_22
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 736
+        width: 79
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_23
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 737
+        width: 79
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_24
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 738
+        width: 69
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_25
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 738
+        width: 70
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_26
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 737
+        width: 72
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_27
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 737
+        width: 69
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_28
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 739
+        width: 69
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_29
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 739
+        width: 69
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_30
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 745
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 636
+        width: 74
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_32
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 634
+        width: 70
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_33
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 645
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_34
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 646
+        width: 90
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_35
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 647
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_36
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 651
+        width: 103
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_37
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 646
+        width: 104
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_38
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 646
+        width: 103
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_39
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 653
+        width: 104
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_40
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 656
+        width: 96
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_41
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 655
+        width: 97
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_42
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 642
+        width: 91
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 543
+        width: 102
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_44
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 541
+        width: 111
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_45
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 538
+        width: 97
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_46
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 540
+        width: 74
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_47
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 548
+        width: 73
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_48
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 534
+        width: 73
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_49
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 530
+        width: 81
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_50
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 528
+        width: 87
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_51
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 530
+        width: 75
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_52
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 521
+        width: 76
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_53
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 532
+        width: 78
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_54
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 530
+        width: 89
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_55
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 522
+        width: 74
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_56
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 415
+        width: 70
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_57
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 417
+        width: 81
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_58
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 409
+        width: 90
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_59
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 415
+        width: 92
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_60
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 408
+        width: 69
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_61
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 445
+        width: 101
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_62
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 429
+        width: 98
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_63
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 401
+        width: 52
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_64
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 406
+        width: 60
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_65
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 380
+        width: 55
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_66
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 402
+        width: 49
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_67
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 420
+        width: 62
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_68
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 452
+        width: 74
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_69
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 422
+        width: 72
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_70
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 416
+        width: 71
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_71
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 282
+        width: 104
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_72
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 272
+        width: 101
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_73
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 267
+        width: 74
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_74
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 268
+        width: 93
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_75
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 257
+        width: 112
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_76
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 282
+        width: 109
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_77
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 296
+        width: 109
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_78
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 293
+        width: 108
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_79
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 259
+        width: 86
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_80
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 279
+        width: 71
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_81
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 266
+        width: 84
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_82
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 258
+        width: 70
+        height: 120
+      alignment: 9
+      pivot: {x: 0.6339861, y: 0.013675181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_83
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 165
+        width: 77
+        height: 90
+      alignment: 9
+      pivot: {x: 0.14811337, y: 0.025253974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_84
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 161
+        width: 96
+        height: 94
+      alignment: 9
+      pivot: {x: 0.17433572, y: 0.0011103204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_85
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 176
+        width: 118
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5794842, y: 0.038299173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_86
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 181
+        width: 120
+        height: 74
+      alignment: 9
+      pivot: {x: 0.56947505, y: 0.049351253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_87
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 169
+        width: 114
+        height: 86
+      alignment: 9
+      pivot: {x: 0.6279803, y: 0.02740851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_88
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 145
+        width: 104
+        height: 110
+      alignment: 9
+      pivot: {x: 0.6603264, y: 0.026306707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_89
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 129
+        width: 73
+        height: 126
+      alignment: 9
+      pivot: {x: 0.4857236, y: 0.028562153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_90
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 154
+        width: 80
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_91
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 140
+        width: 70
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_92
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 126
+        width: 68
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_93
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 151
+        width: 74
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_94
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 155
+        width: 88
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_95
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 35
+        width: 100
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_96
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 36
+        width: 96
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_97
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 29
+        width: 81
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_98
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 10
+        width: 68
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_99
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 6
+        width: 73
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_100
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 26
+        width: 69
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_101
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 22
+        width: 101
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_102
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 2
+        width: 98
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_103
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 15
+        width: 52
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_104
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 26
+        width: 60
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_105
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 27
+        width: 56
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_106
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 28
+        width: 49
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_107
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 22
+        width: 62
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_108
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 4
+        width: 74
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dwaft_109
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 17
+        width: 72
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

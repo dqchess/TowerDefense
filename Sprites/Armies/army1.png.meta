@@ -1,0 +1,1336 @@
+fileFormatVersion: 2
+guid: 7340086c5e226e84d9728c7099e887dc
+timeCreated: 1500449652
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: army1_0
+    21300002: army1_1
+    21300004: army1_2
+    21300006: army1_3
+    21300008: army1_4
+    21300010: army1_5
+    21300012: army1_6
+    21300014: army1_7
+    21300016: army1_8
+    21300018: army1_9
+    21300020: army1_10
+    21300022: army1_11
+    21300024: army1_12
+    21300026: army1_13
+    21300028: army1_14
+    21300030: army1_15
+    21300032: army1_16
+    21300034: army1_17
+    21300036: army1_18
+    21300038: army1_19
+    21300040: army1_20
+    21300042: army1_21
+    21300044: army1_22
+    21300046: army1_23
+    21300048: army1_24
+    21300050: army1_25
+    21300052: army1_26
+    21300054: army1_27
+    21300056: army1_28
+    21300058: army1_29
+    21300060: army1_30
+    21300062: army1_31
+    21300064: army1_32
+    21300066: army1_33
+    21300068: army1_34
+    21300070: army1_35
+    21300072: army1_36
+    21300074: army1_37
+    21300076: army1_38
+    21300078: army1_39
+    21300080: army1_40
+    21300082: army1_41
+    21300084: army1_42
+    21300086: army1_43
+    21300088: army1_44
+    21300090: army1_45
+    21300092: army1_46
+    21300094: army1_47
+    21300096: army1_48
+    21300098: army1_49
+    21300100: army1_50
+    21300102: army1_51
+    21300104: army1_52
+    21300106: army1_53
+    21300108: army1_54
+    21300110: army1_55
+    21300112: army1_56
+    21300114: army1_57
+    21300116: army1_58
+    21300118: army1_59
+    21300120: army1_60
+    21300122: army1_61
+    21300124: army1_62
+    21300126: army1_63
+    21300128: army1_64
+    21300130: army1_65
+    21300132: army1_66
+    21300134: army1_67
+    21300136: army1_68
+    21300138: army1_69
+    21300140: army1_70
+    21300142: army1_71
+    21300144: army1_72
+    21300146: army1_73
+    21300148: army1_74
+    21300150: army1_75
+    21300152: army1_76
+    21300154: army1_77
+    21300156: army1_78
+    21300158: army1_79
+    21300160: army1_80
+    21300162: army1_81
+    21300164: army1_82
+    21300166: army1_83
+    21300168: army1_84
+    21300170: army1_85
+    21300172: army1_86
+    21300174: army1_87
+    21300176: army1_88
+    21300178: army1_89
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: army1_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1960
+        width: 71
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1962
+        width: 71
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1962
+        width: 73
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1900
+        width: 74
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_4
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1900
+        width: 75
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1899
+        width: 74
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1827
+        width: 56
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_7
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1829
+        width: 55
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_8
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1829
+        width: 56
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_9
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1828
+        width: 57
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1755
+        width: 58
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_11
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1754
+        width: 58
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_12
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1760
+        width: 66
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_13
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1760
+        width: 64
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1688
+        width: 65
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1688
+        width: 68
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_16
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1688
+        width: 70
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1621
+        width: 69
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1625
+        width: 73
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_19
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1626
+        width: 72
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1559
+        width: 73
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_21
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1557
+        width: 75
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_22
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1556
+        width: 77
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1491
+        width: 76
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1495
+        width: 71
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_25
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1495
+        width: 71
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1429
+        width: 73
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_27
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1430
+        width: 74
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_28
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1430
+        width: 75
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1369
+        width: 74
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_30
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1373
+        width: 84
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_31
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1370
+        width: 80
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1306
+        width: 72
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_33
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1310
+        width: 74
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_34
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1313
+        width: 81
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1245
+        width: 81
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_36
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1233
+        width: 72
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_37
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1236
+        width: 78
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1165
+        width: 80
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_39
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1164
+        width: 78
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_40
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1159
+        width: 76
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1083
+        width: 68
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_42
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1084
+        width: 67
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_43
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1083
+        width: 62
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1007
+        width: 71
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_45
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1005
+        width: 72
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_46
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1004
+        width: 62
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 930
+        width: 76
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_48
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 938
+        width: 78
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 940
+        width: 74
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 864
+        width: 69
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_51
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 863
+        width: 72
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_52
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 861
+        width: 81
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 797
+        width: 82
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_54
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 802
+        width: 84
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_55
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 800
+        width: 80
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_56
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 737
+        width: 72
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_57
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 738
+        width: 74
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_58
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 739
+        width: 81
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_59
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 679
+        width: 81
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_60
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 675
+        width: 71
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_61
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 662
+        width: 63
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_62
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 573
+        width: 53
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_63
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 590
+        width: 54
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_64
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 589
+        width: 67
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_65
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 601
+        width: 72
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_66
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 502
+        width: 56
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_67
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 499
+        width: 68
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_68
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 493
+        width: 74
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_69
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 430
+        width: 74
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_70
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 432
+        width: 77
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_71
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 427
+        width: 70
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 360
+        width: 66
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_73
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 359
+        width: 81
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_74
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 356
+        width: 60
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_75
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 296
+        width: 78
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_76
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 282
+        width: 80
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_77
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 274
+        width: 68
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_78
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 211
+        width: 73
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_79
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 211
+        width: 78
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_80
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 204
+        width: 51
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_81
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 142
+        width: 71
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_82
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 131
+        width: 71
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_83
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 128
+        width: 70
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 67
+        width: 71
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_85
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 68
+        width: 63
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_86
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 65
+        width: 53
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_87
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 65
+        width: 54
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_88
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 67
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: army1_89
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 5
+        width: 72
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

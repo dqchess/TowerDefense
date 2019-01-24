@@ -1,0 +1,1352 @@
+fileFormatVersion: 2
+guid: dac0534d8d178c346b67e9ac66742367
+timeCreated: 1500363705
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Panda_0
+    21300002: Panda_1
+    21300004: Panda_2
+    21300006: Panda_3
+    21300008: Panda_4
+    21300010: Panda_5
+    21300012: Panda_6
+    21300014: Panda_7
+    21300016: Panda_8
+    21300018: Panda_9
+    21300020: Panda_10
+    21300022: Panda_11
+    21300024: Panda_12
+    21300026: Panda_13
+    21300028: Panda_14
+    21300030: Panda_15
+    21300032: Panda_16
+    21300034: Panda_17
+    21300036: Panda_18
+    21300038: Panda_19
+    21300040: Panda_20
+    21300042: Panda_21
+    21300044: Panda_22
+    21300046: Panda_23
+    21300048: Panda_24
+    21300050: Panda_25
+    21300052: Panda_26
+    21300054: Panda_27
+    21300056: Panda_28
+    21300058: Panda_29
+    21300060: Panda_30
+    21300062: Panda_31
+    21300064: Panda_32
+    21300066: Panda_33
+    21300068: Panda_34
+    21300070: Panda_35
+    21300072: Panda_36
+    21300074: Panda_37
+    21300076: Panda_38
+    21300078: Panda_39
+    21300080: Panda_40
+    21300082: Panda_41
+    21300084: Panda_42
+    21300086: Panda_43
+    21300088: Panda_44
+    21300090: Panda_45
+    21300092: Panda_46
+    21300094: Panda_47
+    21300096: Panda_48
+    21300098: Panda_49
+    21300100: Panda_50
+    21300102: Panda_51
+    21300104: Panda_52
+    21300106: Panda_53
+    21300108: Panda_54
+    21300110: Panda_55
+    21300112: Panda_56
+    21300114: Panda_57
+    21300116: Panda_58
+    21300118: Panda_59
+    21300120: Panda_60
+    21300122: Panda_61
+    21300124: Panda_62
+    21300126: Panda_63
+    21300128: Panda_64
+    21300130: Panda_65
+    21300132: Panda_66
+    21300134: Panda_67
+    21300136: Panda_68
+    21300138: Panda_69
+    21300140: Panda_70
+    21300142: Panda_71
+    21300144: Panda_72
+    21300146: Panda_73
+    21300148: Panda_74
+    21300150: Panda_75
+    21300152: Panda_76
+    21300154: Panda_77
+    21300156: Panda_78
+    21300158: Panda_79
+    21300160: Panda_80
+    21300162: Panda_81
+    21300164: Panda_82
+    21300166: Panda_83
+    21300168: Panda_84
+    21300170: Panda_85
+    21300172: Panda_86
+    21300174: Panda_87
+    21300176: Panda_88
+    21300178: Panda_89
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Panda_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 423
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 423
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 424
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 424
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_4
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 425
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_5
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 424
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_6
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 414
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_7
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 415
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_8
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 415
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_9
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 414
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_10
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 414
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_11
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 414
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_12
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 417
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_13
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 417
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_14
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 417
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_15
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 418
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_16
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 418
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 341
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 346
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_19
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 346
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_20
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 347
+        width: 83
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_21
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 346
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_22
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 346
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_23
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 346
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_24
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 347
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_25
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 348
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_26
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 348
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_27
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 347
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_28
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 347
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_29
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 347
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 282
+        width: 81
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_31
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 277
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_32
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 279
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 283
+        width: 81
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_34
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 278
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 279
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_36
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 281
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_37
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 274
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_38
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 276
+        width: 89
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_39
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 277
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_40
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 269
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_41
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 274
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_42
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 270
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_43
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 271
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_44
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 272
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 192
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_46
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 198
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_47
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 200
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_48
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 194
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_49
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 200
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_50
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 196
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_51
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 199
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_52
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 193
+        width: 89
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_53
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 189
+        width: 90
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_54
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 197
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_55
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 197
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_56
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 189
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_57
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 197
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_58
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 196
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_59
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 189
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 121
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_61
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 112
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_62
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 94
+        width: 45
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_63
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 99
+        width: 84
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_64
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 119
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_65
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 131
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_66
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 112
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_67
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 106
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_68
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 89
+        width: 65
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_69
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 83
+        width: 46
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_70
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 127
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_71
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 128
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_72
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 116
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_73
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 116
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_74
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 108
+        width: 92
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_75
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 88
+        width: 56
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_76
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 27
+        width: 77
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_77
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 17
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_78
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 15
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 19
+        width: 83
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_80
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 17
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_81
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2
+        width: 90
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_82
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 21
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_83
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 15
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_84
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 16
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_85
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 14
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_86
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 14
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_87
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 13
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_88
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 15
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Panda_89
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 12
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

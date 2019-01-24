@@ -1,0 +1,1114 @@
+fileFormatVersion: 2
+guid: 8d940c19333951e458ed9896e33979dd
+timeCreated: 1499392158
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pictures4_0
+    21300002: pictures4_1
+    21300004: pictures4_2
+    21300006: pictures4_3
+    21300008: pictures4_4
+    21300010: pictures4_5
+    21300012: pictures4_6
+    21300014: pictures4_7
+    21300016: pictures4_8
+    21300018: pictures4_9
+    21300020: pictures4_10
+    21300022: pictures4_11
+    21300024: pictures4_12
+    21300026: pictures4_13
+    21300028: pictures4_14
+    21300030: pictures4_15
+    21300032: pictures4_16
+    21300034: pictures4_17
+    21300036: pictures4_18
+    21300038: pictures4_19
+    21300040: pictures4_20
+    21300042: pictures4_21
+    21300044: pictures4_22
+    21300046: pictures4_23
+    21300048: pictures4_24
+    21300050: pictures4_25
+    21300052: pictures4_26
+    21300054: pictures4_27
+    21300056: pictures4_28
+    21300058: pictures4_29
+    21300060: pictures4_30
+    21300062: pictures4_31
+    21300064: pictures4_32
+    21300066: pictures4_33
+    21300068: pictures4_34
+    21300070: pictures4_35
+    21300072: pictures4_36
+    21300074: pictures4_37
+    21300076: pictures4_38
+    21300078: pictures4_39
+    21300080: pictures4_40
+    21300082: pictures4_41
+    21300084: pictures4_42
+    21300086: pictures4_43
+    21300088: pictures4_44
+    21300090: pictures4_45
+    21300092: pictures4_46
+    21300094: pictures4_47
+    21300096: pictures4_48
+    21300098: pictures4_49
+    21300100: pictures4_50
+    21300102: pictures4_51
+    21300104: pictures4_52
+    21300106: pictures4_53
+    21300108: pictures4_54
+    21300110: pictures4_55
+    21300112: pictures4_56
+    21300114: pictures4_57
+    21300116: pictures4_58
+    21300118: pictures4_59
+    21300120: pictures4_60
+    21300122: pictures4_61
+    21300124: pictures4_62
+    21300126: pictures4_63
+    21300128: pictures4_64
+    21300130: pictures4_65
+    21300132: pictures4_66
+    21300134: pictures4_67
+    21300136: pictures4_68
+    21300138: pictures4_69
+    21300140: pictures4_70
+    21300142: pictures4_71
+    21300144: pictures4_72
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pictures4_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1590
+        width: 1049
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_1
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1620
+        width: 964
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_2
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 2034
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_3
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 2032
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_4
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1979
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_5
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1982
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_6
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1964
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_7
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 1962
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_8
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1920
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_9
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 1924
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_10
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1865
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_11
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1032
+        width: 584
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_12
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1194
+        width: 357
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_13
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 1600
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_14
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 1598
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1057
+        width: 551
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_16
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1120
+        width: 101
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_17
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1243
+        width: 123
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_18
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1052
+        width: 123
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_19
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1074
+        width: 68
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_20
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 1529
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_21
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 1533
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_22
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1153
+        width: 173
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_23
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 634
+        width: 266
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_24
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 351
+        width: 115
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_25
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1060
+        width: 127
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_26
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1058
+        width: 116
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_27
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 727
+        width: 41
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 646
+        width: 91
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 870
+        width: 186
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_30
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 748
+        width: 109
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_31
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 480
+        width: 520
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_32
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 824
+        width: 31
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 752
+        width: 110
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_34
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 756
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_35
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 629
+        width: 39
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_36
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 652
+        width: 249
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_37
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 699
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_38
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 296
+        width: 646
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 377
+        width: 400
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_40
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 444
+        width: 31
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_41
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 431
+        width: 105
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_42
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 500
+        width: 134
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_43
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 392
+        width: 466
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_44
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 348
+        width: 40
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_45
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 305
+        width: 43
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_46
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 352
+        width: 105
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_47
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 384
+        width: 109
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_48
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 370
+        width: 55
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_49
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 26
+        width: 307
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_50
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 230
+        width: 520
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_51
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 172
+        width: 42
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_52
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 196
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_53
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 203
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_54
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 218
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_55
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 196
+        width: 144
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_56
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 262
+        width: 58
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_57
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 167
+        width: 83
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_58
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 250
+        width: 112
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_59
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 10
+        width: 143
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_60
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 132
+        width: 249
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_61
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 10
+        width: 106
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_62
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 90
+        width: 78
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_63
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 121
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_64
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 143
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_65
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 184
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_66
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 146
+        width: 106
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_67
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 34
+        width: 249
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_68
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 72
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_69
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 90
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_70
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 14
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_71
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 4
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pictures4_72
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 11
+        width: 87
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

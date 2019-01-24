@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 1482e082a7e061c4386c3fde07dc22f0
+timeCreated: 1499331112
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: li
+    21300002: PlasLaser_1
+    21300004: PlasLaser_2
+    21300006: PlasLaser_3
+    21300008: PlasLaser_4
+    21300010: PlasLaser_5
+    21300012: PlasLaser_6
+    21300014: PlasLaser_7
+    21300016: PlasLaser_8
+    21300018: PlasLaser_9
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: li
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 82
+        height: 254
+      alignment: 9
+      pivot: {x: 0.4688428, y: 0.7481128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlasLaser_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 12
+        width: 86
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5198054, y: 0.7498585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlasLaser_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 13
+        width: 69
+        height: 243
+      alignment: 9
+      pivot: {x: 0.45063007, y: 0.72079307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlasLaser_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 21
+        width: 102
+        height: 222
+      alignment: 9
+      pivot: {x: 0.34136304, y: 0.7416789}
+      border: {x: 0, y: 0, z: 33, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlasLaser_4
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 29
+        width: 102
+        height: 205
+      alignment: 9
+      pivot: {x: 0.39149117, y: 0.72017753}
+      border: {x: 0, y: 0, z: 23, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlasLaser_5
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 44
+        width: 72
+        height: 183
+      alignment: 9
+      pivot: {x: 0.47634336, y: 0.70010996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlasLaser_6
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 58
+        width: 78
+        height: 159
+      alignment: 9
+      pivot: {x: 0.44540796, y: 0.61783564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlasLaser_7
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 76
+        width: 81
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5525693, y: 0.56868005}
+      border: {x: 12, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlasLaser_8
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 91
+        width: 87
+        height: 97
+      alignment: 9
+      pivot: {x: 0.49999928, y: 0.44732195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlasLaser_9
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 86
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: 0.4169133, y: 0.5000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

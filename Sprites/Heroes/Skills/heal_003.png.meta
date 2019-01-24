@@ -1,0 +1,916 @@
+fileFormatVersion: 2
+guid: 15c674aa3b0d21440aefa7dec24828a2
+timeCreated: 1499744433
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: heal_003_0
+    21300002: heal_003_1
+    21300004: heal_003_2
+    21300006: heal_003_3
+    21300008: heal_003_4
+    21300010: heal_003_5
+    21300012: heal_003_6
+    21300014: heal_003_7
+    21300016: heal_003_8
+    21300018: heal_003_9
+    21300020: heal_003_10
+    21300022: heal_003_11
+    21300024: heal_003_12
+    21300026: heal_003_13
+    21300028: heal_003_14
+    21300030: heal_003_15
+    21300032: heal_003_16
+    21300034: heal_003_17
+    21300036: heal_003_18
+    21300038: heal_003_19
+    21300040: heal_003_20
+    21300042: heal_003_21
+    21300044: heal_003_22
+    21300046: heal_003_23
+    21300048: heal_003_24
+    21300050: heal_003_25
+    21300052: heal_003_26
+    21300054: heal_003_27
+    21300056: heal_003_28
+    21300058: heal_003_29
+    21300060: heal_003_30
+    21300062: heal_003_31
+    21300064: heal_003_32
+    21300066: heal_003_33
+    21300068: heal_003_34
+    21300070: heal_003_35
+    21300072: heal_003_36
+    21300074: heal_003_37
+    21300076: heal_003_38
+    21300078: heal_003_39
+    21300080: heal_003_40
+    21300082: heal_003_41
+    21300084: heal_003_42
+    21300086: heal_003_43
+    21300088: heal_003_44
+    21300090: heal_003_45
+    21300092: heal_003_46
+    21300094: heal_003_47
+    21300096: heal_003_48
+    21300098: heal_003_49
+    21300100: heal_003_50
+    21300102: heal_003_51
+    21300104: heal_003_52
+    21300106: heal_003_53
+    21300108: heal_003_54
+    21300110: heal_003_55
+    21300112: heal_003_56
+    21300114: heal_003_57
+    21300116: heal_003_58
+    21300118: heal_003_59
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: heal_003_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 587
+        width: 132
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_1
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 587
+        width: 135
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_2
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 586
+        width: 135
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_3
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 586
+        width: 136
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_4
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 586
+        width: 137
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 381
+        width: 139
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 478
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 394
+        width: 141
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_8
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 395
+        width: 142
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_9
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 395
+        width: 142
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_10
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 395
+        width: 146
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_11
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 448
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 202
+        width: 144
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_13
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 202
+        width: 143
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_14
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 202
+        width: 144
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_15
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 202
+        width: 140
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_16
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 320
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_17
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 202
+        width: 141
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 12
+        width: 143
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_19
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 132
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_20
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 118
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_21
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 137
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_22
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 130
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_23
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 107
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 111
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_25
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 116
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_26
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 124
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_27
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 114
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_28
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 122
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_29
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 126
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_30
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 119
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_31
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 83
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_32
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 106
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_33
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 72
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_34
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 103
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_35
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 37
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_36
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 66
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_37
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 113
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_38
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 91
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_39
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 99
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_40
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 64
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_41
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 54
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_42
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 21
+        width: 134
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_43
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 84
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_44
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 66
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_45
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 93
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_46
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 96
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_47
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 90
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_48
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 29
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_49
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 16
+        width: 117
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_50
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 24
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_51
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 72
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_52
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 43
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_53
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 82
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_54
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 31
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_55
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 39
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_56
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 26
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_57
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 44
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_58
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 19
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal_003_59
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 22
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

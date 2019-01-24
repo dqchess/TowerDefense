@@ -1,0 +1,1554 @@
+fileFormatVersion: 2
+guid: 4730133703a39dc4492fa909c40e3f83
+timeCreated: 1500262381
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Chieftain_0
+    21300002: Chieftain_1
+    21300004: Chieftain_2
+    21300006: Chieftain_3
+    21300008: Chieftain_4
+    21300010: Chieftain_5
+    21300012: Chieftain_6
+    21300014: Chieftain_7
+    21300016: Chieftain_8
+    21300018: Chieftain_9
+    21300020: Chieftain_10
+    21300022: Chieftain_11
+    21300024: Chieftain_12
+    21300026: Chieftain_13
+    21300028: Chieftain_14
+    21300030: Chieftain_15
+    21300032: Chieftain_16
+    21300034: Chieftain_17
+    21300036: Chieftain_18
+    21300038: Chieftain_19
+    21300040: Chieftain_20
+    21300042: Chieftain_21
+    21300044: Chieftain_22
+    21300046: Chieftain_23
+    21300048: Chieftain_24
+    21300050: Chieftain_25
+    21300052: Chieftain_26
+    21300054: Chieftain_27
+    21300056: Chieftain_28
+    21300058: Chieftain_29
+    21300060: Chieftain_30
+    21300062: Chieftain_31
+    21300064: Chieftain_32
+    21300066: Chieftain_33
+    21300068: Chieftain_34
+    21300070: Chieftain_35
+    21300072: Chieftain_36
+    21300074: Chieftain_37
+    21300076: Chieftain_38
+    21300078: Chieftain_39
+    21300080: Chieftain_40
+    21300082: Chieftain_41
+    21300084: Chieftain_42
+    21300086: Chieftain_43
+    21300088: Chieftain_44
+    21300090: Chieftain_45
+    21300092: Chieftain_46
+    21300094: Chieftain_47
+    21300096: Chieftain_48
+    21300098: Chieftain_49
+    21300100: Chieftain_50
+    21300102: Chieftain_51
+    21300104: Chieftain_52
+    21300106: Chieftain_53
+    21300108: Chieftain_54
+    21300110: Chieftain_55
+    21300112: Chieftain_56
+    21300114: Chieftain_57
+    21300116: Chieftain_58
+    21300118: Chieftain_59
+    21300120: Chieftain_60
+    21300122: Chieftain_61
+    21300124: Chieftain_62
+    21300126: Chieftain_63
+    21300128: Chieftain_64
+    21300130: Chieftain_65
+    21300132: Chieftain_66
+    21300134: Chieftain_67
+    21300136: Chieftain_68
+    21300138: Chieftain_69
+    21300140: Chieftain_70
+    21300142: Chieftain_71
+    21300144: Chieftain_72
+    21300146: Chieftain_73
+    21300148: Chieftain_74
+    21300150: Chieftain_75
+    21300152: Chieftain_76
+    21300154: Chieftain_77
+    21300156: Chieftain_78
+    21300158: Chieftain_79
+    21300160: Chieftain_80
+    21300162: Chieftain_81
+    21300164: Chieftain_82
+    21300166: Chieftain_83
+    21300168: Chieftain_84
+    21300170: Chieftain_85
+    21300172: Chieftain_86
+    21300174: Chieftain_87
+    21300176: Chieftain_88
+    21300178: Chieftain_89
+    21300180: Chieftain_90
+    21300182: Chieftain_91
+    21300184: Chieftain_92
+    21300186: Chieftain_93
+    21300188: Chieftain_94
+    21300190: Chieftain_95
+    21300192: Chieftain_96
+    21300194: Chieftain_97
+    21300196: Chieftain_98
+    21300198: Chieftain_99
+    21300200: Chieftain_100
+    21300202: Chieftain_101
+    21300204: Chieftain_102
+    21300206: Chieftain_103
+    21300208: Chieftain_104
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chieftain_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1934
+        width: 91
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1934
+        width: 91
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1936
+        width: 90
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1936
+        width: 90
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_4
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1936
+        width: 90
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1845
+        width: 91
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1836
+        width: 91
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_7
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1837
+        width: 90
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1838
+        width: 90
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_9
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1839
+        width: 90
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1741
+        width: 91
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1740
+        width: 91
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1742
+        width: 76
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_13
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1743
+        width: 76
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_14
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1743
+        width: 76
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1647
+        width: 76
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1647
+        width: 76
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_17
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1646
+        width: 76
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_18
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1646
+        width: 74
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_19
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1647
+        width: 73
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_20
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1647
+        width: 72
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1552
+        width: 72
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_22
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1552
+        width: 72
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_23
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1552
+        width: 73
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_24
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1565
+        width: 91
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_25
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1566
+        width: 91
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1471
+        width: 90
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_27
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1470
+        width: 90
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_28
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1470
+        width: 90
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_29
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1471
+        width: 91
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_30
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1461
+        width: 90
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1373
+        width: 90
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_32
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1378
+        width: 89
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_33
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1372
+        width: 86
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_34
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1378
+        width: 83
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_35
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1377
+        width: 85
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1288
+        width: 88
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_37
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1279
+        width: 90
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_38
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1277
+        width: 88
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_39
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1281
+        width: 91
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_40
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1279
+        width: 94
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1178
+        width: 98
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1182
+        width: 102
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_43
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1183
+        width: 100
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_44
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1183
+        width: 96
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1084
+        width: 92
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1086
+        width: 76
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_47
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1084
+        width: 75
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_48
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1083
+        width: 76
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_49
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1083
+        width: 76
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_50
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1083
+        width: 78
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_51
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 988
+        width: 76
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_52
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 987
+        width: 75
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_53
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 988
+        width: 75
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_54
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 981
+        width: 74
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_55
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 979
+        width: 74
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_56
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 988
+        width: 76
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_57
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 888
+        width: 77
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_58
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 888
+        width: 77
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_59
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 884
+        width: 76
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_60
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 881
+        width: 76
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_61
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 878
+        width: 74
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_62
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 888
+        width: 90
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 786
+        width: 90
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_64
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 794
+        width: 89
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_65
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 790
+        width: 86
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_66
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 787
+        width: 83
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_67
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 784
+        width: 85
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_68
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 698
+        width: 88
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_69
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 695
+        width: 90
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_70
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 685
+        width: 79
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_71
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 663
+        width: 67
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_72
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 668
+        width: 69
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_73
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 680
+        width: 65
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_74
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 560
+        width: 65
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_75
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 556
+        width: 66
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_76
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 593
+        width: 83
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_77
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 561
+        width: 75
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_78
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 543
+        width: 76
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_79
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 549
+        width: 78
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 447
+        width: 102
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_81
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 450
+        width: 98
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_82
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 450
+        width: 100
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_83
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 451
+        width: 79
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_84
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 440
+        width: 83
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_85
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 336
+        width: 84
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_86
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 336
+        width: 86
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_87
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 364
+        width: 119
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_88
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 366
+        width: 116
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_89
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 257
+        width: 116
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_90
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 226
+        width: 78
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_91
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 234
+        width: 100
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_92
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 239
+        width: 82
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_93
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 242
+        width: 86
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_94
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 143
+        width: 105
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_95
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 142
+        width: 104
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_96
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 140
+        width: 99
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_97
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 117
+        width: 66
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_98
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 121
+        width: 79
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_99
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 17
+        width: 67
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_100
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 18
+        width: 69
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_101
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 26
+        width: 65
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_102
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 30
+        width: 65
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_103
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 29
+        width: 66
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chieftain_104
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 2
+        width: 83
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

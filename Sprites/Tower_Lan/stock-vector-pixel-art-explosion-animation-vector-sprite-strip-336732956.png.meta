@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 04572592ba9eae44aadeadca69ce83a2
+timeCreated: 1501025837
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: stock-vector-pixel-art-explosion-animation-vector-sprite-strip-336732956_0
+    21300002: stock-vector-pixel-art-explosion-animation-vector-sprite-strip-336732956_1
+    21300004: stock-vector-pixel-art-explosion-animation-vector-sprite-strip-336732956_2
+    21300006: stock-vector-pixel-art-explosion-animation-vector-sprite-strip-336732956_3
+    21300008: stock-vector-pixel-art-explosion-animation-vector-sprite-strip-336732956_4
+    21300010: stock-vector-pixel-art-explosion-animation-vector-sprite-strip-336732956_5
+    21300012: stock-vector-pixel-art-explosion-animation-vector-sprite-strip-336732956_6
+    21300014: stock-vector-pixel-art-explosion-animation-vector-sprite-strip-336732956_7
+    21300016: stock-vector-pixel-art-explosion-animation-vector-sprite-strip-336732956_8
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-explosion-animation-vector-sprite-strip-336732956_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 712
+        width: 281
+        height: 294
+      alignment: 9
+      pivot: {x: 0.50719607, y: 0.5698398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-explosion-animation-vector-sprite-strip-336732956_1
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 777
+        width: 349
+        height: 206
+      alignment: 9
+      pivot: {x: 0.54843444, y: 0.4067928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-explosion-animation-vector-sprite-strip-336732956_2
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 727
+        width: 386
+        height: 325
+      alignment: 9
+      pivot: {x: 0.50830835, y: 0.5208975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-explosion-animation-vector-sprite-strip-336732956_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 379
+        width: 376
+        height: 290
+      alignment: 9
+      pivot: {x: 0.5244549, y: 0.45847705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-explosion-animation-vector-sprite-strip-336732956_4
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 369
+        width: 410
+        height: 305
+      alignment: 9
+      pivot: {x: 0.47075522, y: 0.4167978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-explosion-animation-vector-sprite-strip-336732956_5
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 372
+        width: 449
+        height: 301
+      alignment: 9
+      pivot: {x: 0.48532817, y: 0.47976777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-explosion-animation-vector-sprite-strip-336732956_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1
+        width: 416
+        height: 293
+      alignment: 9
+      pivot: {x: 0.51422393, y: 0.5108708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-explosion-animation-vector-sprite-strip-336732956_7
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 10
+        width: 393
+        height: 281
+      alignment: 9
+      pivot: {x: 0.48293066, y: 0.5048907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-explosion-animation-vector-sprite-strip-336732956_8
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 19
+        width: 430
+        height: 272
+      alignment: 9
+      pivot: {x: 0.51320034, y: 0.49878553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 40fd4fd3651b9e94eb95726060114413
+timeCreated: 1500868693
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - soundArrow: {fileID: 8300000, guid: f850d9d0913a1f548967e3c7d28aac98, type: 3}
+  - soundLightLevel1: {fileID: 8300000, guid: d5c348067b495a94fbb3df4c8c040585, type: 3}
+  - soundLightLevel2: {instanceID: 0}
+  - soundLightLevel3: {instanceID: 0}
+  - soundBoom: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

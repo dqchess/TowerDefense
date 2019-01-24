@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: 48cd6132bd8902b4699cd5fc3278644c
+timeCreated: 1499241936
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: laser.1_0
+    21300002: laser.1_1
+    21300004: laser.1_2
+    21300006: laser.1_3
+    21300008: laser.1_4
+    21300010: laser.1_5
+    21300012: laser.1_6
+    21300014: laser.1_7
+    21300016: laser.1_8
+    21300018: laser.1_9
+    21300020: laser.1_10
+    21300022: laser.1_11
+    21300024: laser.1_12
+    21300026: laser.1_13
+    21300028: laser.1_14
+    21300030: laser.1_15
+    21300032: laser.1_16
+    21300034: laser.1_17
+    21300036: laser.1_18
+    21300038: laser.1_19
+    21300040: laser.1_20
+    21300042: laser.1_21
+    21300044: laser.1_22
+    21300046: laser.1_23
+    21300048: laser.1_24
+    21300050: laser.1_25
+    21300052: laser.1_26
+    21300054: laser.1_27
+    21300056: laser.1_28
+    21300058: laser.1_29
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: laser.1_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 412
+        width: 72
+        height: 97
+      alignment: 9
+      pivot: {x: 0.43343577, y: 0.34832984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laser.1_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 416
+        width: 60
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5079876, y: 0.37116593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laser.1_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 418
+        width: 62
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5347851, y: 0.37497512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laser.1_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 416
+        width: 60
+        height: 94
+      alignment: 9
+      pivot: {x: 0.52396315, y: 0.3852828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laser.1_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 422
+        width: 73
+        height: 88
+      alignment: 9
+      pivot: {x: 0.4244995, y: 0.38835353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laser.1_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 424
+        width: 60
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laser.1_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 450
+        width: 88
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laser.1_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 314
+        width: 69
+        height: 95
+      alignment: 9
+      pivot: {x: 0.44967404, y: 0.3568356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laser.1_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 316
+        width: 60
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5144688, y: 0.36620307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laser.1_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 320
+        width: 60
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5289375, y: 0.3768619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laser.1_10
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 324
+        width: 60
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5241147, y: 0.3710397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laser.1_11
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 328
+        width: 76
+        height: 87
+      alignment: 9
+      pivot: {x: 0.4642607, y: 0.11317391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laser.1_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 336
+        width: 60
+        height: 86
+      alignment: 9
+      pivot: {x: 0.31609243, y: 0.11448989}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laser.1_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 388
+        width: 86
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laser.1_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 216
+        width: 67
+        height: 96
+      alignment: 9
+      pivot: {x: 0.56478536, y: 0.36134133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laser.1_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 216
+        width: 60
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5192916, y: 0.3842502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laser.1_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 222
+        width: 66
+        height: 92
+      alignment: 9
+      pivot: {x: 0.49123105, y: 0.3678942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laser.1_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 232
+        width: 78
+        height: 90
+      alignment: 9
+      pivot: {x: 0.39241204, y: 0.39711136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laser.1_18
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 237
+        width: 69
+        height: 88
+      alignment: 9
+      pivot: {x: 0.4065083, y: 0.121533304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laser.1_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 116
+        width: 65
+        height: 97
+      alignment: 9
+      pivot: {x: 0.56232685, y: 0.36575395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laser.1_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 120
+        width: 62
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5326713, y: 0.35686845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laser.1_21
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 132
+        width: 82
+        height: 87
+      alignment: 9
+      pivot: {x: 0.37648663, y: 0.3968895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laser.1_22
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 144
+        width: 70
+        height: 87
+      alignment: 9
+      pivot: {x: 0.44212517, y: 0.38358492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laser.1_23
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 148
+        width: 60
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5096461, y: 0.38358492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laser.1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 68
+        height: 93
+      alignment: 9
+      pivot: {x: 0.47872245, y: 0.35998014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laser.1_25
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 24
+        width: 60
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36309147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laser.1_26
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 24
+        width: 60
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5144686, y: 0.35686833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laser.1_27
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 40
+        width: 73
+        height: 90
+      alignment: 9
+      pivot: {x: 0.43850812, y: 0.13309433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laser.1_28
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 52
+        width: 66
+        height: 89
+      alignment: 9
+      pivot: {x: 0.37754405, y: 0.1335198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laser.1_29
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 57
+        width: 62
+        height: 87
+      alignment: 9
+      pivot: {x: 0.3373856, y: 0.1268329}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2464 @@
+fileFormatVersion: 2
+guid: 874adc0846e058c49902ebcbf1d81fa4
+timeCreated: 1499137143
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gamescene_0
+    21300002: gamescene_1
+    21300004: gamescene_2
+    21300006: gamescene_3
+    21300008: gamescene_4
+    21300010: gamescene_5
+    21300012: gamescene_6
+    21300014: gamescene_7
+    21300016: gamescene_8
+    21300018: gamescene_9
+    21300020: gamescene_10
+    21300022: gamescene_11
+    21300024: gamescene_12
+    21300026: gamescene_13
+    21300028: gamescene_14
+    21300030: gamescene_15
+    21300032: gamescene_16
+    21300034: gamescene_17
+    21300036: gamescene_18
+    21300038: gamescene_19
+    21300040: gamescene_20
+    21300042: gamescene_21
+    21300044: gamescene_22
+    21300046: gamescene_23
+    21300048: gamescene_24
+    21300050: gamescene_25
+    21300052: gamescene_26
+    21300054: gamescene_27
+    21300056: gamescene_28
+    21300058: gamescene_29
+    21300060: gamescene_30
+    21300062: gamescene_31
+    21300064: gamescene_32
+    21300066: gamescene_33
+    21300068: gamescene_34
+    21300070: gamescene_35
+    21300072: gamescene_36
+    21300074: gamescene_37
+    21300076: gamescene_38
+    21300078: gamescene_39
+    21300080: gamescene_40
+    21300082: gamescene_41
+    21300084: gamescene_42
+    21300086: gamescene_43
+    21300088: gamescene_44
+    21300090: gamescene_45
+    21300092: gamescene_46
+    21300094: gamescene_47
+    21300096: gamescene_48
+    21300098: gamescene_49
+    21300100: gamescene_50
+    21300102: gamescene_51
+    21300104: gamescene_52
+    21300106: gamescene_53
+    21300108: gamescene_54
+    21300110: gamescene_55
+    21300112: gamescene_56
+    21300114: gamescene_57
+    21300116: gamescene_58
+    21300118: gamescene_59
+    21300120: gamescene_60
+    21300122: gamescene_61
+    21300124: gamescene_62
+    21300126: gamescene_63
+    21300128: gamescene_64
+    21300130: gamescene_65
+    21300132: gamescene_66
+    21300134: gamescene_67
+    21300136: gamescene_69
+    21300138: gamescene_70
+    21300140: gamescene_71
+    21300142: gamescene_72
+    21300144: gamescene_74
+    21300146: gamescene_75
+    21300148: gamescene_76
+    21300150: gamescene_77
+    21300152: gamescene_78
+    21300154: gamescene_79
+    21300156: gamescene_80
+    21300158: gamescene_81
+    21300160: gamescene_82
+    21300162: gamescene_83
+    21300164: gamescene_84
+    21300166: gamescene_86
+    21300168: gamescene_87
+    21300170: gamescene_88
+    21300172: gamescene_89
+    21300174: gamescene_90
+    21300176: gamescene_91
+    21300178: gamescene_92
+    21300180: gamescene_93
+    21300182: gamescene_94
+    21300184: gamescene_95
+    21300186: gamescene_96
+    21300188: gamescene_97
+    21300190: gamescene_98
+    21300192: gamescene_99
+    21300194: gamescene_100
+    21300196: gamescene_101
+    21300198: gamescene_102
+    21300200: gamescene_103
+    21300202: gamescene_104
+    21300204: gamescene_105
+    21300206: gamescene_106
+    21300208: gamescene_107
+    21300210: gamescene_108
+    21300212: gamescene_109
+    21300214: gamescene_110
+    21300216: gamescene_111
+    21300218: gamescene_112
+    21300220: gamescene_113
+    21300222: gamescene_114
+    21300224: gamescene_115
+    21300226: gamescene_116
+    21300228: gamescene_117
+    21300230: gamescene_118
+    21300232: gamescene_119
+    21300234: gamescene_120
+    21300236: gamescene_121
+    21300238: gamescene_122
+    21300240: gamescene_123
+    21300242: gamescene_124
+    21300244: gamescene_125
+    21300246: gamescene_126
+    21300248: gamescene_127
+    21300250: gamescene_128
+    21300252: gamescene_129
+    21300254: gamescene_130
+    21300256: gamescene_131
+    21300258: gamescene_132
+    21300260: gamescene_133
+    21300262: gamescene_134
+    21300264: gamescene_135
+    21300266: gamescene_136
+    21300268: gamescene_137
+    21300270: gamescene_138
+    21300272: gamescene_139
+    21300274: gamescene_140
+    21300276: gamescene_141
+    21300278: gamescene_142
+    21300280: gamescene_143
+    21300282: gamescene_144
+    21300284: gamescene_145
+    21300286: gamescene_146
+    21300288: gamescene_147
+    21300290: gamescene_148
+    21300292: gamescene_149
+    21300294: gamescene_150
+    21300296: gamescene_151
+    21300298: gamescene_152
+    21300300: gamescene_153
+    21300302: gamescene_154
+    21300304: gamescene_155
+    21300306: gamescene_156
+    21300308: gamescene_157
+    21300310: gamescene_158
+    21300312: gamescene_159
+    21300314: gamescene_160
+    21300316: gamescene_161
+    21300318: gamescene_162
+    21300320: gamescene_163
+    21300322: gamescene_164
+    21300324: gamescene_165
+    21300326: gamescene_166
+    21300328: gamescene_167
+    21300330: gamescene_168
+    21300332: gamescene_73
+    21300334: gamescene_85
+    21300336: gamescene_68
+    21300338: gamescene_169
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gamescene_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1981
+        width: 909
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_1
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1503
+        width: 494
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_2
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1879
+        width: 304
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_3
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 2037
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1456
+        width: 904
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_5
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1806
+        width: 290
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_6
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 1848
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_7
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1815
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_8
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1733
+        width: 290
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_9
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1782
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_10
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1749
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_11
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1625
+        width: 284
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_12
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 1716
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_13
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1503
+        width: 382
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_14
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1377
+        width: 268
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_15
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 1599
+        width: 39
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_16
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 1546
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_17
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1371
+        width: 185
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_18
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1372
+        width: 632
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_19
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1278
+        width: 505
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_20
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 1495
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1324
+        width: 632
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_22
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1373
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_23
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 1444
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_24
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1393
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1150
+        width: 612
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_26
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1292
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_27
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1290
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_28
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1220
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_29
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1124
+        width: 577
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_30
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1302
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_31
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1312
+        width: 119
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_32
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1191
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_33
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1202
+        width: 217
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_34
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1157
+        width: 347
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_35
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 913
+        width: 252
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_36
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1159
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_37
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1159
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_38
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 1159
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_39
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 1167
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 998
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_41
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 998
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_42
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 880
+        width: 252
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_43
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 611
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_44
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1057
+        width: 91
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_45
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 712
+        width: 527
+        height: 444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_46
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 1118
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_47
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 1082
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_48
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 966
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_49
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 1046
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 915
+        width: 87
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_51
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 915
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_52
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 847
+        width: 152
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_53
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 875
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 132
+        width: 110
+        height: 780
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_55
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 879
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_56
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 650
+        width: 252
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_57
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 808
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_58
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 807
+        width: 150
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_59
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 630
+        width: 246
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_60
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 787
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_61
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 761
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_62
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 702
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_63
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 760
+        width: 72
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_64
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 699
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_65
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 714
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_66
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 719
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 596
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_69
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 574
+        width: 246
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_70
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 631
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_71
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 491
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_72
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 479
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_74
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 535
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_75
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 505
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_76
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 505
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_77
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 504
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_78
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 491
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_79
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 528
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_80
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 543
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_81
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 543
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_82
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 543
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_83
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 543
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_84
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 543
+        width: 135
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_86
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 494
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_87
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 494
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_88
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 418
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_89
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 418
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_90
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 460
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_91
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 475
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_92
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 475
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_93
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 475
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_94
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 475
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_95
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 475
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_96
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 396
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_98
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 407
+        width: 87
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_99
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 407
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_100
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 423
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_101
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 423
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_102
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 392
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_103
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 407
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_104
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 407
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_105
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 407
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_106
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 407
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_107
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 296
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_108
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 308
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_109
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 308
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_110
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 311
+        width: 87
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_111
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 320
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_112
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 320
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_113
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 331
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_114
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 335
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_115
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 340
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_116
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 340
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_117
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 340
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_118
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 342
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_119
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 344
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_120
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 344
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_121
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_122
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 208
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_123
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 220
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_124
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 220
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_125
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 224
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_126
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 233
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_127
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 233
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_128
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 244
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_129
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 252
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_130
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 257
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_131
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 257
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_132
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 272
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_133
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 274
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_134
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 276
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_135
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 276
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_136
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 132
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_137
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 133
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_138
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 137
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_139
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 146
+        width: 87
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_140
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 146
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_141
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 161
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_142
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 169
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_143
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 174
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_144
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 174
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_145
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 204
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_146
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 206
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_147
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 208
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_148
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 139
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_149
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 139
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_150
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 139
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_151
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 59
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_152
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 63
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_153
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 78
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_154
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 86
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_155
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 91
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_156
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 91
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_157
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 136
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_158
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 138
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_159
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 11
+        width: 347
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_160
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 45
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_161
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 46
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_162
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 50
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_163
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 10
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_164
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 10
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_165
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 3
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_166
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 8
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_167
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 23
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_168
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 68
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_73
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 485
+        width: 71
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_85
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 485
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_68
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 678
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_97
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 396
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gamescene_169
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 396
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

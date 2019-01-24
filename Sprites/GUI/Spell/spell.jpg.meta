@@ -1,0 +1,5580 @@
+fileFormatVersion: 2
+guid: 2f86528df623a0d4a9fb14ee6601e017
+timeCreated: 1499663815
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spell_0
+    21300002: spell_1
+    21300004: spell_2
+    21300006: spell_3
+    21300008: spell_4
+    21300010: spell_5
+    21300012: spell_6
+    21300014: spell_7
+    21300016: spell_8
+    21300018: spell_9
+    21300020: spell_10
+    21300022: spell_11
+    21300024: spell_12
+    21300026: spell_13
+    21300028: spell_14
+    21300030: spell_15
+    21300032: spell_16
+    21300034: spell_17
+    21300036: spell_18
+    21300038: spell_19
+    21300040: spell_20
+    21300042: spell_21
+    21300044: spell_22
+    21300046: spell_23
+    21300048: spell_24
+    21300050: spell_25
+    21300052: spell_26
+    21300054: spell_27
+    21300056: spell_28
+    21300058: spell_29
+    21300060: spell_30
+    21300062: spell_31
+    21300064: spell_32
+    21300066: spell_33
+    21300068: spell_34
+    21300070: spell_35
+    21300072: spell_36
+    21300074: spell_37
+    21300076: spell_38
+    21300078: spell_39
+    21300080: spell_40
+    21300082: spell_41
+    21300084: spell_42
+    21300086: spell_43
+    21300088: spell_44
+    21300090: spell_45
+    21300092: spell_46
+    21300094: spell_47
+    21300096: spell_48
+    21300098: spell_49
+    21300100: spell_50
+    21300102: spell_51
+    21300104: spell_52
+    21300106: spell_53
+    21300108: spell_54
+    21300110: spell_55
+    21300112: spell_56
+    21300114: spell_57
+    21300116: spell_58
+    21300118: spell_59
+    21300120: spell_60
+    21300122: spell_61
+    21300124: spell_62
+    21300126: spell_63
+    21300128: spell_64
+    21300130: spell_65
+    21300132: spell_66
+    21300134: spell_67
+    21300136: spell_68
+    21300138: spell_69
+    21300140: spell_70
+    21300142: spell_71
+    21300144: spell_72
+    21300146: spell_73
+    21300148: spell_74
+    21300150: spell_75
+    21300152: spell_76
+    21300154: spell_77
+    21300156: spell_78
+    21300158: spell_79
+    21300160: spell_80
+    21300162: spell_81
+    21300164: spell_82
+    21300166: spell_83
+    21300168: spell_84
+    21300170: spell_85
+    21300172: spell_86
+    21300174: spell_87
+    21300176: spell_88
+    21300178: spell_89
+    21300180: spell_90
+    21300182: spell_91
+    21300184: spell_92
+    21300186: spell_93
+    21300188: spell_94
+    21300190: spell_95
+    21300192: spell_96
+    21300194: spell_97
+    21300196: spell_98
+    21300198: spell_99
+    21300200: spell_100
+    21300202: spell_101
+    21300204: spell_102
+    21300206: spell_103
+    21300208: spell_104
+    21300210: spell_105
+    21300212: spell_106
+    21300214: spell_107
+    21300216: spell_108
+    21300218: spell_109
+    21300220: spell_110
+    21300222: spell_111
+    21300224: spell_112
+    21300226: spell_113
+    21300228: spell_114
+    21300230: spell_115
+    21300232: spell_116
+    21300234: spell_117
+    21300236: spell_118
+    21300238: spell_119
+    21300240: spell_120
+    21300242: spell_121
+    21300244: spell_122
+    21300246: spell_123
+    21300248: spell_124
+    21300250: spell_125
+    21300252: spell_126
+    21300254: spell_127
+    21300256: spell_128
+    21300258: spell_129
+    21300260: spell_130
+    21300262: spell_131
+    21300264: spell_132
+    21300266: spell_133
+    21300268: spell_134
+    21300270: spell_135
+    21300272: spell_136
+    21300274: spell_137
+    21300276: spell_138
+    21300278: spell_139
+    21300280: spell_140
+    21300282: spell_141
+    21300284: spell_142
+    21300286: spell_143
+    21300288: spell_144
+    21300290: spell_145
+    21300292: spell_146
+    21300294: spell_147
+    21300296: spell_148
+    21300298: spell_149
+    21300300: spell_150
+    21300302: spell_151
+    21300304: spell_152
+    21300306: spell_153
+    21300308: spell_154
+    21300310: spell_155
+    21300312: spell_156
+    21300314: spell_157
+    21300316: spell_158
+    21300318: spell_159
+    21300320: spell_160
+    21300322: spell_161
+    21300324: spell_162
+    21300326: spell_163
+    21300328: spell_164
+    21300330: spell_165
+    21300332: spell_166
+    21300334: spell_167
+    21300336: spell_168
+    21300338: spell_169
+    21300340: spell_170
+    21300342: spell_171
+    21300344: spell_172
+    21300346: spell_173
+    21300348: spell_174
+    21300350: spell_175
+    21300352: spell_176
+    21300354: spell_177
+    21300356: spell_178
+    21300358: spell_179
+    21300360: spell_180
+    21300362: spell_181
+    21300364: spell_182
+    21300366: spell_183
+    21300368: spell_184
+    21300370: spell_185
+    21300372: spell_186
+    21300374: spell_187
+    21300376: spell_188
+    21300378: spell_189
+    21300380: spell_190
+    21300382: spell_191
+    21300384: spell_192
+    21300386: spell_193
+    21300388: spell_194
+    21300390: spell_195
+    21300392: spell_196
+    21300394: spell_197
+    21300396: spell_198
+    21300398: spell_199
+    21300400: spell_200
+    21300402: spell_201
+    21300404: spell_202
+    21300406: spell_203
+    21300408: spell_204
+    21300410: spell_205
+    21300412: spell_206
+    21300414: spell_207
+    21300416: spell_208
+    21300418: spell_209
+    21300420: spell_210
+    21300422: spell_211
+    21300424: spell_212
+    21300426: spell_213
+    21300428: spell_214
+    21300430: spell_215
+    21300432: spell_216
+    21300434: spell_217
+    21300436: spell_218
+    21300438: spell_219
+    21300440: spell_220
+    21300442: spell_221
+    21300444: spell_222
+    21300446: spell_223
+    21300448: spell_224
+    21300450: spell_225
+    21300452: spell_226
+    21300454: spell_227
+    21300456: spell_228
+    21300458: spell_229
+    21300460: spell_230
+    21300462: spell_231
+    21300464: spell_232
+    21300466: spell_233
+    21300468: spell_234
+    21300470: spell_235
+    21300472: spell_236
+    21300474: spell_237
+    21300476: spell_238
+    21300478: spell_239
+    21300480: spell_240
+    21300482: spell_241
+    21300484: spell_242
+    21300486: spell_243
+    21300488: spell_244
+    21300490: spell_245
+    21300492: spell_246
+    21300494: spell_247
+    21300496: spell_248
+    21300498: spell_249
+    21300500: spell_250
+    21300502: spell_251
+    21300504: spell_252
+    21300506: spell_253
+    21300508: spell_254
+    21300510: spell_255
+    21300512: spell_256
+    21300514: spell_257
+    21300516: spell_258
+    21300518: spell_259
+    21300520: spell_260
+    21300522: spell_261
+    21300524: spell_262
+    21300526: spell_263
+    21300528: spell_264
+    21300530: spell_265
+    21300532: spell_266
+    21300534: spell_267
+    21300536: spell_268
+    21300538: spell_269
+    21300540: spell_270
+    21300542: spell_271
+    21300544: spell_272
+    21300546: spell_273
+    21300548: spell_274
+    21300550: spell_275
+    21300552: spell_276
+    21300554: spell_277
+    21300556: spell_278
+    21300558: spell_279
+    21300560: spell_280
+    21300562: spell_281
+    21300564: spell_282
+    21300566: spell_283
+    21300568: spell_284
+    21300570: spell_285
+    21300572: spell_286
+    21300574: spell_287
+    21300576: spell_288
+    21300578: spell_289
+    21300580: spell_290
+    21300582: spell_291
+    21300584: spell_292
+    21300586: spell_293
+    21300588: spell_294
+    21300590: spell_295
+    21300592: spell_296
+    21300594: spell_297
+    21300596: spell_298
+    21300598: spell_299
+    21300600: spell_300
+    21300602: spell_301
+    21300604: spell_302
+    21300606: spell_303
+    21300608: spell_304
+    21300610: spell_305
+    21300612: spell_306
+    21300614: spell_307
+    21300616: spell_308
+    21300618: spell_309
+    21300620: spell_310
+    21300622: spell_311
+    21300624: spell_312
+    21300626: spell_313
+    21300628: spell_314
+    21300630: spell_315
+    21300632: spell_316
+    21300634: spell_317
+    21300636: spell_318
+    21300638: spell_319
+    21300640: spell_320
+    21300642: spell_321
+    21300644: spell_322
+    21300646: spell_323
+    21300648: spell_324
+    21300650: spell_325
+    21300652: spell_326
+    21300654: spell_327
+    21300656: spell_328
+    21300658: spell_329
+    21300660: spell_330
+    21300662: spell_331
+    21300664: spell_332
+    21300666: spell_333
+    21300668: spell_334
+    21300670: spell_335
+    21300672: spell_336
+    21300674: spell_337
+    21300676: spell_338
+    21300678: spell_339
+    21300680: spell_340
+    21300682: spell_341
+    21300684: spell_342
+    21300686: spell_343
+    21300688: spell_344
+    21300690: spell_345
+    21300692: spell_346
+    21300694: spell_347
+    21300696: spell_348
+    21300698: spell_349
+    21300700: spell_350
+    21300702: spell_351
+    21300704: spell_352
+    21300706: spell_353
+    21300708: spell_354
+    21300710: spell_355
+    21300712: spell_356
+    21300714: spell_357
+    21300716: spell_358
+    21300718: spell_359
+    21300720: spell_360
+    21300722: spell_361
+    21300724: spell_362
+    21300726: spell_363
+    21300728: spell_364
+    21300730: spell_365
+    21300732: spell_366
+    21300734: spell_367
+    21300736: spell_368
+    21300738: spell_369
+    21300740: spell_370
+    21300742: spell_371
+    21300744: spell_372
+    21300746: spell_373
+    21300748: spell_374
+    21300750: spell_375
+    21300752: spell_376
+    21300754: spell_377
+    21300756: spell_378
+    21300758: spell_379
+    21300760: spell_380
+    21300762: spell_381
+    21300764: spell_382
+    21300766: spell_383
+    21300768: spell_384
+    21300770: spell_385
+    21300772: spell_386
+    21300774: spell_387
+    21300776: spell_388
+    21300778: spell_389
+    21300780: spell_390
+    21300782: spell_391
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spell_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1132
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1132
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1132
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1132
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1132
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1132
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_6
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1132
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_7
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1132
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_8
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1132
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_9
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1132
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_10
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1132
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_11
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1132
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_12
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1132
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_13
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1132
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_14
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1132
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_15
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1132
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_16
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1132
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_17
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1132
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_18
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1132
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_19
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1132
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_20
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1132
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_21
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1132
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_22
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 1132
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_23
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1132
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_24
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1132
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_25
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 1132
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_26
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 1132
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_27
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 1132
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1051
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1051
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_30
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1051
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_31
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1051
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_32
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1051
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_33
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1051
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_34
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1051
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_35
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1051
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_36
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1051
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_37
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1051
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_38
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1051
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_39
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1051
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_40
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1051
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_41
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1051
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_42
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1051
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_43
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1051
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_44
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1051
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_45
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1051
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_46
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1051
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_47
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1051
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_48
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1051
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_49
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1051
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_50
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 1051
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_51
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1051
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_52
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1051
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_53
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 1051
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_54
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 1051
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_55
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 1051
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 970
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_57
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 970
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_58
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 970
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_59
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 970
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_60
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 970
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_61
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 970
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_62
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 970
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_63
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 970
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_64
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 970
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_65
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 970
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_66
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 970
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_67
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 970
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_68
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 970
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_69
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 970
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_70
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 970
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_71
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 970
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_72
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 970
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_73
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 970
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_74
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 970
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_75
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 970
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_76
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 970
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_77
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 970
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_78
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 970
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_79
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 970
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_80
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 970
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_81
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 970
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_82
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 970
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_83
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 970
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 889
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_85
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 889
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_86
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 889
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_87
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 889
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_88
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 889
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_89
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 889
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_90
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 889
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_91
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 889
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_92
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 889
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_93
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 889
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_94
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 889
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_95
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 889
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_96
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 889
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_97
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 889
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_98
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 889
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_99
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 889
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_100
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 889
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_101
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 889
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_102
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 889
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_103
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 889
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_104
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 889
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_105
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 889
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_106
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 889
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_107
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 889
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_108
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 889
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_109
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 889
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_110
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 889
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_111
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 889
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 808
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_113
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 808
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_114
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 808
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_115
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 808
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_116
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 808
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_117
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 808
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_118
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 808
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_119
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 808
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_120
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 808
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_121
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 808
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_122
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 808
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_123
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 808
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_124
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 808
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_125
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 808
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_126
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 808
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_127
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 808
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_128
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 808
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_129
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 808
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_130
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 808
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_131
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 808
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_132
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 808
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_133
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 808
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_134
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 808
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_135
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 808
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_136
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 808
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_137
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 808
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_138
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 808
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_139
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 808
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 727
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_141
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 727
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_142
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 727
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_143
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 727
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_144
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 727
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_145
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 727
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_146
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 727
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_147
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 727
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_148
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 727
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_149
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 727
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_150
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 727
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_151
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 727
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_152
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 727
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_153
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 727
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_154
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 727
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_155
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 727
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_156
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 727
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_157
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 727
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_158
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 727
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_159
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 727
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_160
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 727
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_161
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 727
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_162
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 727
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_163
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 727
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_164
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 727
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_165
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 727
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_166
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 727
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_167
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 727
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 646
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_169
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 646
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_170
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 646
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_171
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 646
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_172
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 646
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_173
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 646
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_174
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 646
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_175
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 646
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_176
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 646
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_177
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 646
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_178
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 646
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_179
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 646
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_180
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 646
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_181
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 646
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_182
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 646
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_183
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 646
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_184
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 646
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_185
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 646
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_186
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 646
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_187
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 646
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_188
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 646
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_189
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 646
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_190
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 646
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_191
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 646
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_192
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 646
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_193
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 646
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_194
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 646
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_195
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 646
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 565
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_197
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 565
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_198
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 565
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_199
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 565
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_200
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 565
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_201
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 565
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_202
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 565
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_203
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 565
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_204
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 565
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_205
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 565
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_206
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 565
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_207
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 565
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_208
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 565
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_209
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 565
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_210
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 565
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_211
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 565
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_212
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 565
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_213
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 565
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_214
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 565
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_215
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 565
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_216
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 565
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_217
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 565
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_218
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 565
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_219
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 565
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_220
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 565
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_221
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 565
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_222
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 565
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_223
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 565
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_225
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 484
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_226
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 484
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_227
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 484
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_228
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 484
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_229
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 484
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_230
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 484
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_231
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 484
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_232
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 484
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_233
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 484
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_234
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 484
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_235
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 484
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_236
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 484
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_237
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 484
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_238
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 484
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_239
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 484
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_240
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 484
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_241
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 484
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_242
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 484
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_243
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 484
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_244
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 484
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_245
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 484
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_246
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 484
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_247
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 484
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_248
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 484
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_249
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 484
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_250
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 484
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_251
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 484
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_252
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 403
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_253
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 403
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_254
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 403
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_255
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 403
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_256
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 403
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_257
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 403
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_258
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 403
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_259
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 403
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_260
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 403
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_261
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 403
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_262
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 403
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_263
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 403
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_264
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 403
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_265
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 403
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_266
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 403
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_267
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 403
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_268
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 403
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_269
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 403
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_270
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 403
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_271
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 403
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_272
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 403
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_273
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 403
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_274
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 403
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_275
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 403
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_276
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 403
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_277
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 403
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_278
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 403
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_279
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 403
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_280
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_281
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 322
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_282
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 322
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_283
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 322
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_284
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 322
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_285
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 322
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_286
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 322
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_287
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 322
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_288
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 322
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_289
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 322
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_290
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 322
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_291
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 322
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_292
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 322
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_293
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 322
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_294
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 322
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_295
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 322
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_296
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 322
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_297
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 322
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_298
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 322
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_299
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 322
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_300
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 322
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_301
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 322
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_302
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 322
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_303
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 322
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_304
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 322
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_305
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 322
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_306
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 322
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_307
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 322
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_308
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_309
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 241
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_310
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 241
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_311
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 241
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_312
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 241
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_313
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 241
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_314
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 241
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_315
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 241
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_316
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 241
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_317
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 241
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_318
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 241
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_319
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 241
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_320
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 241
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_321
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 241
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_322
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 241
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_323
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 241
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_324
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 241
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_325
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 241
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_326
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 241
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_327
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 241
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_328
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 241
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_329
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 241
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_330
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 241
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_331
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 241
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_332
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 241
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_333
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 241
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_334
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 241
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_335
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 241
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_336
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_337
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 160
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_338
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 160
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_339
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 160
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_340
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 160
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_341
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 160
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_342
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 160
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_343
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 160
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_344
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 160
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_345
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 160
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_346
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 160
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_347
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 160
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_348
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 160
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_349
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 160
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_350
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 160
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_351
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 160
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_352
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 160
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_353
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 160
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_354
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 160
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_355
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 160
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_356
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 160
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_357
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 160
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_358
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 160
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_359
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 160
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_360
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 160
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_361
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 160
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_362
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 160
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_363
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 160
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_364
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_365
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 79
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_366
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 79
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_367
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 79
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_368
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 79
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_369
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 79
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_370
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 79
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_371
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 79
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_372
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 79
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_373
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 79
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_374
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 79
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_375
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 79
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_376
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 79
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_377
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 79
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_378
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 79
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_379
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 79
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_380
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 79
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_381
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 79
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_382
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 79
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_383
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 79
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_384
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 79
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_385
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 79
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_386
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 79
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_387
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 79
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_388
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 79
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_389
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 79
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_390
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 79
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spell_391
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 79
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
